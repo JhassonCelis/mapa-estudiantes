@@ -194,7 +194,7 @@ if confirmar != "s":
     exit()
 
 # 🔐 API Key
-API_KEY = "AIzaSyDHICcCFQFY8ZZ4cJLAKT_XJGhPKKjy-SM"
+API_KEY = "A"
 gmaps = googlemaps.Client(key=API_KEY)
 
 print(f"\n🌍 Iniciando consulta API para {len(Geo_faltantes)} direcciones sin coordenadas...")
