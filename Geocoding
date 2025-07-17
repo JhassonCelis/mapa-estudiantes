@@ -1,0 +1,259 @@
+import pandas as pd
+from pathlib import Path
+from tqdm import tqdm
+import re
+import googlemaps
+import time
+from requests.exceptions import ConnectionError, HTTPError
+from datetime import datetime
+
+fecha_actual = datetime.today().strftime("%Y-%m-%d")
+# -------------------------------
+# CONFIGURACIÓN INICIAL
+# -------------------------------
+tqdm.pandas(desc="📍 Progreso")
+
+# -------------------------------
+# CARGA Y CONSOLIDACIÓN DE ARCHIVOS BANNER
+# -------------------------------
+print("📂 Buscando archivos Excel en la carpeta 'Banner'...")
+
+carpeta = Path("C:/Users/Jalcelis/OneDrive - Politécnico Grancolombiano/Documentos/Informes Inteligencia Competitiva/Caracterización/Banner")
+lista_df = []
+hoja_objetivo = "INFO"
+
+archivos_excel = list(carpeta.glob("*.xlsx"))
+print(f"🔎 Archivos encontrados: {len(archivos_excel)}")
+
+for i, archivo in enumerate(tqdm(archivos_excel, desc="📄 Procesando archivos Excel", unit="archivo")):
+    try:
+        df = pd.read_excel(archivo, sheet_name=hoja_objetivo, engine="openpyxl")
+        df["archivo_origen"] = archivo.name
+        lista_df.append(df)
+    except Exception as e:
+        print(f"⚠️ Error leyendo {archivo.name}: {e}")
+
+df_total = pd.concat(lista_df, ignore_index=True)
+print(f"✅ Total de registros consolidados: {len(df_total)}")
+
+# -------------------------------
+# FILTRADO Y CONSTRUCCIÓN DEL DATAFRAME GEO
+# -------------------------------
+
+# Inicializa la columna como "OTRO"
+df_total["CONVENIO SIMPLE"] = "OTRO"
+
+# Condición 1: REGULAR o SIN CONVENIO
+cond_regular = df_total["CONVENIO ACADEMICO"].str.upper().isin(["REGULAR", "SIN CONVENIO"])
+df_total.loc[cond_regular, "CONVENIO SIMPLE"] = "REGULAR"
+
+# Condición 2: contiene "SENA"
+cond_sena = df_total["CONVENIO ACADEMICO"].str.upper().str.contains("SENA", na=False)
+df_total.loc[cond_sena, "CONVENIO SIMPLE"] = "SENA"
+
+columnas_geo = [
+    "PERIODO ACADEMICO", "PERSONA ID", "DEPARTAMENTO RESIDENCIA", "CIUDAD RESIDENCIA",
+    "COD_MUNICIPIO", "CORREO INSTITUCIONAL", "DIRECCIÓN", "SNIES", "PROGRAMA", "FACULTAD",
+    "NIVEL ACADÉMICO", "NIVEL FORMACIÓN", "SEDE", "REGION", "TIPO ESTUDIANTE","CONVENIO SIMPLE"
+]
+
+Ciudades = [
+    "11001", "25754", "05001", "05360", "08758", "76001", "25126", "05266", "76520",
+    "05631", "68001", "25175", "05380", "68307", "05088", "08001", "25473", "68276",
+    "25286", "76364", "05212", "76892", "68547", "08573", "25430", "08433", "25214",
+    "91001", "94001", "97001", "99001", "25817", "25899", "15176", "15238", "15759",
+    "15001", "85001", "73001", "73585", "41001", "41551", "54001", "54498", "68081"
+]
+
+
+# Filtrar los municipios específicos
+Geo = df_total[columnas_geo].copy()
+Geo["AÑO"] = Geo["PERIODO ACADEMICO"].astype(str).str[:4].astype("int64")
+Geo = Geo[Geo["AÑO"] >= 2022].reset_index(drop=True)
+Geo = Geo[Geo["TIPO ESTUDIANTE"] == "NUEVO"].reset_index(drop=True)
+
+# ✅ ahora sí mostrar conteo correcto
+print(f"🏙️ Estudiantes NUEVOS desde 2023 en ciudades principales: {len(Geo)}")
+
+# -------------------------------
+# CARGAR YA REFERENCIADOS Y HACER JOIN
+# -------------------------------
+print("📥 Cargando archivo 'Ya Referenciados.xlsx'...")
+YaReferenciados = Path(r"C:\Users\Jalcelis\OneDrive - Politécnico Grancolombiano\Documentos\Informes Inteligencia Competitiva\Caracterización\GEOREFERENCIA\Ya Referenciados.xlsx")
+yageo = pd.read_excel(YaReferenciados, sheet_name="Hoja1")
+yageo.columns = yageo.columns.str.strip().str.upper()
+
+print(f"📌 Registros ya georreferenciados: {len(yageo)}")
+
+print("🔗 Uniendo datos por CORREO INSTITUCIONAL y PERIODO ACADEMICO...")
+
+Geo["CORREO INSTITUCIONAL"] = Geo["CORREO INSTITUCIONAL"].str.strip().str.upper()
+Geo["PERIODO ACADEMICO"] = Geo["PERIODO ACADEMICO"].astype(str).str.strip()
+
+yageo["CORREO INSTITUCIONAL"] = yageo["CORREO INSTITUCIONAL"].str.strip().str.upper()
+yageo["PERIODO ACADEMICO"] = yageo["PERIODO ACADEMICO"].astype(str).str.strip()
+
+Geo = Geo.merge(
+    yageo[["CORREO INSTITUCIONAL", "PERIODO ACADEMICO", "LATITUD", "LONGITUD"]],
+    on=["CORREO INSTITUCIONAL", "PERIODO ACADEMICO"],
+    how="left"
+)
+
+_ = Geo["LATITUD"].progress_apply(lambda x: x if pd.notna(x) else None)
+
+coincidencias = Geo["LATITUD"].notna().sum()
+print("\n📊 RESULTADO DEL JOIN:")
+print(f"✔ Coordenadas encontradas: {coincidencias}")
+print(f"❗ Faltantes por georreferenciar: {len(Geo) - coincidencias}")
+
+# -------------------------------
+# LIMPIEZA DE DIRECCIONES
+# -------------------------------
+def limpiar_direccion(dir_raw):
+    """Normaliza una dirección colombiana para la API de georreferenciación."""
+    if pd.isna(dir_raw):
+        return ""
+
+    # Convertir a texto seguro
+    dir_raw = str(dir_raw).upper().strip()
+
+    # Reemplazar símbolos raros por espacio
+    dir_limpia = re.sub(r"[^A-Z0-9\s]", " ", dir_raw)
+
+    # Reemplazos de abreviaturas comunes
+    reemplazos = {
+        r"\bCRA\b": "CARRERA",
+        r"\bCL\b": "CALLE",
+        r"\bAV\b": "AVENIDA",
+        r"\bDG\b": "DIAGONAL",
+        r"\bTR\b": "TRANSVERSAL",
+        r"\bMZ\b": "MANZANA",
+        r"\bLT\b": "LOTE",
+        r"\bAPT\b": "APARTAMENTO",
+        r"\bCR\b": "CARRERA",
+    }
+    for patron, reemplazo in reemplazos.items():
+        dir_limpia = re.sub(patron, reemplazo, dir_limpia)
+
+    # Luego: convertir múltiples espacios en uno solo
+    dir_limpia = re.sub(r"\s+", " ", dir_limpia)
+
+    return dir_limpia.strip()
+
+print("🔧 Iniciando limpieza de direcciones...")
+Geo["DIRECCION_LIMPIA"] = Geo["DIRECCIÓN"].progress_apply(limpiar_direccion)
+
+def recortar_direccion(texto):
+    if pd.isna(texto):
+        return ""
+
+    texto = str(texto)
+    # Expresión regular que busca la palabra y todo lo que sigue
+    patron = r"\b(apartamento|apto|torre|interior)\b.*"
+    # Reemplaza la coincidencia y lo que sigue por vacío
+    return re.sub(patron, "", texto, flags=re.IGNORECASE).strip()
+
+Geo["DIRECCION_LIMPIA"] = Geo["DIRECCION_LIMPIA"].apply(recortar_direccion)
+
+
+print("🧱 Construyendo dirección completa para búsqueda en API...")
+Geo["DIRECCION_BUSQUEDA"] = (
+    Geo["DIRECCION_LIMPIA"] + ", " +
+    Geo["CIUDAD RESIDENCIA"].fillna("") + ", " +
+    Geo["DEPARTAMENTO RESIDENCIA"].fillna("") + ", COLOMBIA"
+)
+
+preparadas = Geo["DIRECCION_BUSQUEDA"].str.strip().replace("", pd.NA).notna().sum()
+print(f"✅ Direcciones listas para consulta en API: {preparadas} de {len(Geo)}")
+
+# -------------------------------
+# EXPORTAR ARCHIVO PENDIENTES POR GEOREFERENCIAR
+# -------------------------------
+Geo_pendientes = Geo[Geo["LATITUD"].isna() & Geo["DIRECCION_BUSQUEDA"].notna()].copy()
+ruta_salida = Path("C:/Users/Jalcelis/OneDrive - Politécnico Grancolombiano/Documentos/Informes Inteligencia Competitiva/Caracterización/GEOREFERENCIA/Geo_Pendientes_API.xlsx")
+Geo_pendientes.to_excel(ruta_salida, index=False)
+
+print(f"📤 Archivo exportado con {len(Geo_pendientes)} direcciones por georreferenciar:")
+print(f"📁 Ubicación: {ruta_salida}")
+
+# -------------------------------
+# CONSULTA POR LA API
+# -------------------------------
+
+# Filtrar registros sin coordenadas
+Geo_faltantes = Geo[Geo["LATITUD"].isna() & Geo["DIRECCION_BUSQUEDA"].notna()].copy()
+Geo_faltantes.reset_index(inplace=True)
+
+# -------------------------------
+# CONFIRMACIÓN DEL USUARIO
+# -------------------------------
+confirmar = input(f"\n⚠️ Estás a punto de consultar {len(Geo_faltantes)} direcciones vía Google Maps API. Esto puede generar consumo de cuota.\n¿Deseas continuar? (s/n): ").strip().lower()
+
+if confirmar != "s":
+    print("⛔ Consulta cancelada por el usuario.")
+    exit()
+
+# 🔐 API Key
+API_KEY = "AIzaSyDHICcCFQFY8ZZ4cJLAKT_XJGhPKKjy-SM"
+gmaps = googlemaps.Client(key=API_KEY)
+
+print(f"\n🌍 Iniciando consulta API para {len(Geo_faltantes)} direcciones sin coordenadas...")
+
+# Parámetros de control
+MAX_RETRIES = 5
+INITIAL_WAIT_TIME = 1
+consultados_api = []
+
+for i, row in tqdm(Geo_faltantes.iterrows(), total=len(Geo_faltantes), desc="📡 Georreferenciando", unit="registro"):
+    direccion = row["DIRECCION_BUSQUEDA"]
+    retries = 0
+    wait_time = INITIAL_WAIT_TIME
+    success = False
+
+    while not success and retries < MAX_RETRIES:
+        try:
+            resultado = gmaps.geocode(direccion)
+            if resultado:
+                location = resultado[0]["geometry"]["location"]
+                Geo.at[row["index"], "LATITUD"] = location["lat"]
+                Geo.at[row["index"], "LONGITUD"] = location["lng"]
+                consultados_api.append(row["index"])
+            success = True
+
+        except googlemaps.exceptions.ApiError as e:
+            if e.status in ['OVER_QUERY_LIMIT', 'RATE_LIMIT_EXCEEDED']:
+                time.sleep(wait_time)
+                wait_time *= 2
+                retries += 1
+            else:
+                break
+
+        except (ConnectionError, HTTPError):
+            time.sleep(wait_time)
+            wait_time *= 2
+            retries += 1
+
+        except Exception:
+            break
+
+# Exportar archivos
+ruta_geo_total = Path("C:/Users/Jalcelis/OneDrive - Politécnico Grancolombiano/Documentos/Informes Inteligencia Competitiva/Caracterización/Geo Total.xlsx")
+Geo.to_excel(ruta_geo_total, index=False)
+
+ruta_api = Path(f"C:/Users/Jalcelis/OneDrive - Politécnico Grancolombiano/Documentos/Informes Inteligencia Competitiva/Caracterización/GEOREFERENCIA/API Consultados/Geo_API_Consultados_{fecha_actual}.xlsx")
+Geo.loc[consultados_api].to_excel(ruta_api, index=False)
+
+print(f"\n✅ Consulta finalizada.")
+print(f"📁 Geo Total exportado a: {ruta_geo_total}")
+print(f"📁 Geo consultados vía API exportado a: {ruta_api}")
+# -------------------------------
+# RESUMEN FINAL DE CONSULTA API
+# -------------------------------
+total_consultados = len(consultados_api)
+total_faltantes = len(Geo_faltantes)
+porcentaje = round((total_consultados / total_faltantes) * 100, 2) if total_faltantes > 0 else 0
+
+print("\n📊 RESUMEN CONSULTA API")
+print(f"🔎 Total registros sin coordenadas al inicio: {total_faltantes}")
+print(f"✔ Total consultados exitosamente vía API: {total_consultados}")
+print(f"📈 Porcentaje exitoso: {porcentaje}%")
