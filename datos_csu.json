@@ -1,0 +1,2994 @@
+[
+  {
+    "lat": 4.8136724,
+    "lng": -75.6983528,
+    "ies_marca": "AREANDINA",
+    "nombre": "SECCIONAL PEREIRA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 24 8 55, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 4.6577179,
+    "lng": -74.0627245,
+    "ies_marca": "AREANDINA",
+    "nombre": "SEDE BOGOTÁ",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 14A 70A 34, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 10.4609042,
+    "lng": -73.2608858,
+    "ies_marca": "AREANDINA",
+    "nombre": "SEDE VALLEDUPAR",
+    "tipo_csu": "SEDE",
+    "direccion": "TRANSV 22 BIS 4 105, VALLEDUPAR, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 8.3112656,
+    "lng": -73.6146338,
+    "ies_marca": "AREANDINA",
+    "nombre": "AGUACHICA, CESAR-ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 20 4 38 BARRIO EL CARRETERO, AGUACHICA, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 7.882966499999999,
+    "lng": -76.6340256,
+    "ies_marca": "AREANDINA",
+    "nombre": "APARTADÓ, ANTIOQUIA - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 98 102 56 BARRIO ORTIZ, APARTADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.535000399999999,
+    "lng": -75.6756888,
+    "ies_marca": "AREANDINA",
+    "nombre": "AREMINA, QUINDIO - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "KRA 14 4 15, ARMENIA, QUINDIO, COLOMBIA"
+  },
+  {
+    "lat": 7.060382100000001,
+    "lng": -73.8615335,
+    "ies_marca": "AREANDINA",
+    "nombre": "BARRANCABERMEJA, SANTANDER ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 50 15 83 B, BARRANCABERMEJA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 10.9945737,
+    "lng": -74.81282139999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "BARRANQUILLA, ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 20 DE JULIO 75B 129, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 4.600592199999999,
+    "lng": -74.1816059,
+    "ies_marca": "AREANDINA",
+    "nombre": "BOSA ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 65 SUR 77 M 04, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.5867612,
+    "lng": -74.09840129999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "EL RESTREPO ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "TRANSVERSAL 18 BIS NO 13 A 29 SUR, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6756551,
+    "lng": -74.1427942,
+    "ies_marca": "AREANDINA",
+    "nombre": "FONTIBON ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 100 20 59 CC PLAZA 100, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.625149299999999,
+    "lng": -74.1147048,
+    "ies_marca": "AREANDINA",
+    "nombre": "GALAN, CUNDINAMARCA ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5B BIS NO 54 69 BOGOT D C CUNDINAMARCA, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.742548999999999,
+    "lng": -74.0922221,
+    "ies_marca": "AREANDINA",
+    "nombre": "SUBA - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 100 A 141 10, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.7046673,
+    "lng": -74.117672,
+    "ies_marca": "AREANDINA",
+    "nombre": "ALAMOS - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA CALLE 72 NO 101 A 22, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.626779600000001,
+    "lng": -74.06604180000001,
+    "ies_marca": "AREANDINA",
+    "nombre": "CENTRO INTERNACIONAL - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "DIAGONAL 40 A NO 7 40, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6177931,
+    "lng": -74.1528189,
+    "ies_marca": "AREANDINA",
+    "nombre": "KENNEDY - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 40 SUR 73D 40, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 7.114843599999999,
+    "lng": -73.1079807,
+    "ies_marca": "AREANDINA",
+    "nombre": "BUCARAMANGA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 51 36 36 BARRIO CABECERA, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 3.8905661,
+    "lng": -77.0766852,
+    "ies_marca": "AREANDINA",
+    "nombre": "BUENAVENTURA - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 8 3 52, BUENAVENTURA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4686477,
+    "lng": -76.53092500000001,
+    "ies_marca": "AREANDINA",
+    "nombre": "CALI NORTE - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 6 NORTE 19N 19 BARRIO SANTA MONICA, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 10.4244633,
+    "lng": -75.5468805,
+    "ies_marca": "AREANDINA",
+    "nombre": "CARTAGENA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA VENEZUELA 8A 44 CENTRO COMERCIAL CENTRO UNO, CARTAGENA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 7.987501999999999,
+    "lng": -75.19789899999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "CAUCASIA - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 #18 05, CAUCASIA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.888313,
+    "lng": -72.5000081,
+    "ies_marca": "AREANDINA",
+    "nombre": "CUCUTA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 1 N 9 46 CENTRO, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.8176103,
+    "lng": -74.3520798,
+    "ies_marca": "AREANDINA",
+    "nombre": "FACATATIVA - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 8 12 CENTRO COMERCIAL NOVA PLAZA, FACATATIVA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 1.6129036,
+    "lng": -75.6182946,
+    "ies_marca": "AREANDINA",
+    "nombre": "FLORENCIA - ZONA SUR",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 14 10 29 EDIFICIO JIMENEZ, FLORENCIA, CAQUETA, COLOMBIA"
+  },
+  {
+    "lat": 4.2966904,
+    "lng": -74.80445139999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "GIRARDOT - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 9 19 56 BARRIO GRANADA, GIRARDOT, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.440351,
+    "lng": -75.223434,
+    "ies_marca": "AREANDINA",
+    "nombre": "IBAGUE - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 29 5 35, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 6.1673367,
+    "lng": -75.6193764,
+    "ies_marca": "AREANDINA",
+    "nombre": "ITAGUI - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CENTRO COMERCIAL ARRAYANES, ITAGUI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": -4.2146644,
+    "lng": -69.938424,
+    "ies_marca": "AREANDINA",
+    "nombre": "LETICIA - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 7 8 12, LETICIA, AMAZONAS, COLOMBIA"
+  },
+  {
+    "lat": 5.0507729,
+    "lng": -75.4839909,
+    "ies_marca": "AREANDINA",
+    "nombre": "MANIZALES - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 23 NO 70 69 BARRIO LA CAMELIA, MANIZALES, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 6.233996899999999,
+    "lng": -75.59645499999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "MEDELLIN - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 76 32 55 MEDELL N ANTIOQUIA, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 8.751099,
+    "lng": -75.884457,
+    "ies_marca": "AREANDINA",
+    "nombre": "MONTERIA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 24 8 59, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 2.929245,
+    "lng": -75.286011,
+    "ies_marca": "AREANDINA",
+    "nombre": "Sede Andina Occidente -NEIVA - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 8 9 16 CENTRO, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 1.2190094,
+    "lng": -77.27958459999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "PASTO - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 19 29 86 LAS CUADRAS, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 5.8803455,
+    "lng": -71.891269,
+    "ies_marca": "AREANDINA",
+    "nombre": "PAZ DE ARIPORO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 10 6 12 PAZ DE ARIPORO, PAZ DE ARIPORO, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 5.874979499999999,
+    "lng": -73.6805926,
+    "ies_marca": "AREANDINA",
+    "nombre": "PUENTE NACIONAL - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 4 06 17, PUENTE NACIONAL, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 11.5504702,
+    "lng": -72.9097857,
+    "ies_marca": "AREANDINA",
+    "nombre": "RIOHACHA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 9 08, RIOHACHA, LA GUAJIRA, COLOMBIA"
+  },
+  {
+    "lat": 6.156753999999999,
+    "lng": -75.3731632,
+    "ies_marca": "AREANDINA",
+    "nombre": "RIONEGRO - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA C RDOBA 53 41, RIONEGRO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 10.6365295,
+    "lng": -74.9241748,
+    "ies_marca": "AREANDINA",
+    "nombre": "SABANALARGA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 23 26 31 BARRIO AVENIDA BOGOT, SABANALARGA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 6.5560953,
+    "lng": -73.1360791,
+    "ies_marca": "AREANDINA",
+    "nombre": "SAN GIL - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 16 10, SAN GIL, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 11.240811,
+    "lng": -74.212845,
+    "ies_marca": "AREANDINA",
+    "nombre": "SANTA MARTA - ZONA NORORIENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 22 #3 33, SANTA MARTA, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 5.534775799999999,
+    "lng": -73.3634055,
+    "ies_marca": "AREANDINA",
+    "nombre": "TUNJA - ZONA CENTRO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 21 11 102, TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 4.1345839,
+    "lng": -73.6371813,
+    "ies_marca": "AREANDINA",
+    "nombre": "VILLAVICENCIO - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 15 38 40 CC LLANO CENTRO, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.3447222,
+    "lng": -72.38861109999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "YOPAL - ZONA OCCIDENTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 29 18 03 CENTRO COMERCIAL EL HOBO, YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 4.6495744,
+    "lng": -74.0570236,
+    "ies_marca": "IBERO",
+    "nombre": "SEDE PRINCIPAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 67 5 27 SEDE PRINCIPAL, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.665943,
+    "lng": -74.05798089999999,
+    "ies_marca": "IBERO",
+    "nombre": "SEDE 23",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 16 79 34, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 7.093279,
+    "lng": -70.756948,
+    "ies_marca": "IBERO",
+    "nombre": "ARAUCA - UNIDAD DE ESTUDIOS SUPERIORES",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 20 28 40, ARAUCA, ARAUCA, COLOMBIA"
+  },
+  {
+    "lat": 8.755450000000002,
+    "lng": -75.88383329999999,
+    "ies_marca": "IBERO",
+    "nombre": "MONTERÍA - PROMOEDUCA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 29 68, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 8.75762,
+    "lng": -75.8815219,
+    "ies_marca": "IBERO",
+    "nombre": "MONTERÍA - EDUCITY",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 34 6 19, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 9.228344,
+    "lng": -75.81969699999999,
+    "ies_marca": "IBERO",
+    "nombre": "LORICA - FUNDECRED",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 4 15 60, LORICA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 3.4370966,
+    "lng": -76.539312,
+    "ies_marca": "IBERO",
+    "nombre": "CALI - IBERO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 NO 24 A 15 BARRIO MIRAFLORES, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 9.3016226,
+    "lng": -75.3853645,
+    "ies_marca": "IBERO",
+    "nombre": "SINCELEJO - EDUCITY",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 25 B 25 A 1, SINCELEJO, SUCRE, COLOMBIA"
+  },
+  {
+    "lat": 1.2141378,
+    "lng": -77.28721929999999,
+    "ies_marca": "IBERO",
+    "nombre": "PASTO - YANAPAX",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 30 A 10 17 BARRIO SAN IGNACIO, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 1.2051864,
+    "lng": -77.2947959,
+    "ies_marca": "IBERO",
+    "nombre": "PASTO - CESSA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 26 DIAGONAL 6 SUR, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 0.8268519999999999,
+    "lng": -77.63813499999999,
+    "ies_marca": "IBERO",
+    "nombre": "IPIALES - CESSA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 4 13 26, IPIALES, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 4.0066457,
+    "lng": -73.7709368,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Acacias",
+    "tipo_csu": "CSU",
+    "direccion": "UNAD KM1 V A VILLAVICENCIO, ACACIAS, META, COLOMBIA"
+  },
+  {
+    "lat": 4.272793399999999,
+    "lng": -73.48824490000001,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Cumaral",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 20 8 37 CASA DE LA CULTURA, CUMARAL, META, COLOMBIA"
+  },
+  {
+    "lat": 3.8672564,
+    "lng": -67.92398299999999,
+    "ies_marca": "UNAD",
+    "nombre": "UDR GUAINIA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 19 10 44 BARRIO COMUNERO, INIRIDA, GUAINIA, COLOMBIA"
+  },
+  {
+    "lat": -4.203164999999999,
+    "lng": -69.935907,
+    "ies_marca": "UNAD",
+    "nombre": "UDR LETICIA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 12 7 45 BARRIO JOS MAR A HERN NDEZ, LETICIA, AMAZONAS, COLOMBIA"
+  },
+  {
+    "lat": 6.1899117,
+    "lng": -67.48256959999999,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD PUERTO CARREÑO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 7 20 169 BARRIO SANTA TERESITA, PUERTO CARREÑO, VICHADA, COLOMBIA"
+  },
+  {
+    "lat": 2.560501,
+    "lng": -72.64065699999999,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV San José del Guaviare",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 19 19E 40 BARRIO LA GRANJA, SAN JOSE DEL GUAVIARE, GUAVIARE, COLOMBIA"
+  },
+  {
+    "lat": 5.3412741,
+    "lng": -72.4017526,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD YOPAL",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 15 14 65 BARRIO LA COROCORA, YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 5.529419,
+    "lng": -73.3509973,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Tunja",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 18 CARRERA 1, TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 6.3349205,
+    "lng": -72.585824,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Boavita",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 4 8 26, BOAVITA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.6242712,
+    "lng": -73.80712679999999,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD CHIQUINQUIRA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 30 32 ANTIGUO EDIFICIO IDBOY, CHIQUINQUIRA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 7.00178,
+    "lng": -72.108186,
+    "ies_marca": "UNAD",
+    "nombre": "UDR CUBARA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 3 5 54, CUBARA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.7556215,
+    "lng": -73.0604684,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Duitama",
+    "tipo_csu": "CSU",
+    "direccion": "KIL METRO 1 V A PANTANO DE VARGAS, DUITAMA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.0826848,
+    "lng": -73.3684854,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD GARAGOA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 10 16 02, GARAGOA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 6.334179,
+    "lng": -72.683776,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Soatá",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 8 47, SOATA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.9991923,
+    "lng": -72.6894121,
+    "ies_marca": "UNAD",
+    "nombre": "UDR SOCHA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 9 CON CARRERA 8 ESQUINA, SOCHA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.703755,
+    "lng": -72.92019900000001,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Sogamoso",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 1 08 BARRIO MONQUIRA, SOGAMOSO, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 11.029343,
+    "lng": -74.923351,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Puerto Colombia",
+    "tipo_csu": "CSU",
+    "direccion": "KILOMETRO 11 ANTIGUA V A PRADOMAR SALGAR, PUERTO COLOMBIA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.3953885,
+    "lng": -75.5024708,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Cartagena",
+    "tipo_csu": "CSU",
+    "direccion": "TRANSVERSAL 45 44A 221 AVENIDA AL ACUEDUCTO BARRIO PARAGUAY, CARTAGENA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 9.3167425,
+    "lng": -75.29877979999999,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Corozal",
+    "tipo_csu": "CSU",
+    "direccion": "CARRETERA TRONCAL COROZAL ENTRADA A MORROA, COROZAL, SUCRE, COLOMBIA"
+  },
+  {
+    "lat": 1.8049437,
+    "lng": -75.4395892,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Curumaní",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 17 12 57 BARRIO EL PARA SO ANTIGUO SUBCENTRO JAIME MESTRE COCK, CURUMANI, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 9.011414499999999,
+    "lng": -73.96828719999999,
+    "ies_marca": "UNAD",
+    "nombre": "EL BANCO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 11 46 BARRIO LA PLEGARIA, EL BANCO, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 11.5426847,
+    "lng": -72.9083777,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD La Guajira",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 15 8 63, RIOHACHA, LA GUAJIRA, COLOMBIA"
+  },
+  {
+    "lat": 9.800002,
+    "lng": -74.7805263,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Plato",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 14 LOS CONTENEDORES IED GABRIEL ESCOBAR BALLESTAS SEDE PRINCIPAL, PLATO, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 8.9477386,
+    "lng": -75.43965759999999,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Sahagún",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 19 16A 10 BARRIO SAN ROQUE, SAHAGUN, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 11.2440528,
+    "lng": -74.2071811,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Santa Marta",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA EL LIBERTADOR 30 320, SANTA MARTA, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 10.4508368,
+    "lng": -73.2375771,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Valledupar",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 39 4B 02 BARRIO PANAM, VALLEDUPAR, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 8.3094129,
+    "lng": -73.5986906,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Aguachica",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 38 52, AGUACHICA, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 4.5980587,
+    "lng": -74.10868219999999,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD José Acevedo y Gómez",
+    "tipo_csu": "CSU",
+    "direccion": "TRANSVERSAL 31 12 38 SUR, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.275999,
+    "lng": -74.41265899999999,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Arbeláez",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 7 1A 85 FINCA CASA LOMA ARBEL EZ, ARBELAEZ, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.443242,
+    "lng": -74.044173,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Chipaque",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 3 5 18, CHIPAQUE, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.8118117,
+    "lng": -74.3405277,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Facatativá",
+    "tipo_csu": "CSU",
+    "direccion": "TRANSVERSAL 11 5 35 ESTE BARRIO PORTAL DE MAR A, FACATATIVA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.3491632,
+    "lng": -74.3620247,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Fusagasugá",
+    "tipo_csu": "CSU",
+    "direccion": "DIAGONAL 1 26 18 BARRIO EL COMBOY, FUSAGASUGA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.8161483,
+    "lng": -73.63792710000001,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Gachetá",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 8 4 18 BARRIO SIM N BOL VAR, GACHETA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.309299,
+    "lng": -74.804166,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Girardot",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 36 50 V A TOCAIMA BARRIO ROSA BLANCA, GIRARDOT, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6054491,
+    "lng": -74.21493199999999,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Soacha",
+    "tipo_csu": "CSU",
+    "direccion": "DIAGONAL 28 NO 28 99 CIUDAD VERDE, SOACHA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.0195699,
+    "lng": -73.9990145,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Zipaquirá",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 16 4A 103 BARRIO ALGARRA III, ZIPAQUIRA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 7.1360484,
+    "lng": -73.1287518,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Bucaramanga",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 16 10A 21 BARRIO COMUNEROS, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.0645934,
+    "lng": -73.8541876,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Barrancabermeja",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 55 23 31 BARRIO GAL N, BARRANCABERMEJA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.9401726,
+    "lng": -72.5019787,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Cúcuta",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 24 2 172 URBANIZACI N GARC A HERREROS, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 6.7019557,
+    "lng": -72.7319156,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Málaga",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 9 15 20 BARRIO UNI N, MALAGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 8.2328175,
+    "lng": -73.35515010000002,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Ocaña",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 10 9 47, OCAÑA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.378128999999999,
+    "lng": -72.65015799999999,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Pamplona",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 3 05 BARRIO EL CARMEN, PAMPLONA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 6.006722,
+    "lng": -73.67616199999999,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD VELEZ",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 5 9 68, VELEZ, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 3.5368764,
+    "lng": -76.29726099999999,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Palmira",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 28 40 56 BARRIO VERSALLES, PALMIRA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4263777,
+    "lng": -76.53988249999999,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Cali",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA ROOSVELT 36 60, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 1.2159013,
+    "lng": -77.2835254,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Pasto",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 14 NO 28 45 SECTOR BOMBON, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 2.1143047,
+    "lng": -76.9868047,
+    "ies_marca": "UNAD",
+    "nombre": "UDR El Bordo",
+    "tipo_csu": "CSU",
+    "direccion": "EL BORDO CALLE 5 7 45 BARRIO LIMONAR, PATIA, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 2.4548811,
+    "lng": -76.6368377,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Popayán Sede Norte",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 46N 67, POPAYAN, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 2.442533,
+    "lng": -76.602575,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Popayán Sede Centro",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 3 2 55, POPAYAN, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.0181572,
+    "lng": -76.4773216,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Santander de Quilichao",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 7 2B 20, SANTANDER DE QUILICHAO, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 1.7867795,
+    "lng": -78.79407789999999,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Tumaco",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE SUCRE C 132, SAN ANDRES DE TUMACO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 6.2515412,
+    "lng": -75.5618733,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD MEDELLÍN",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 45 55 19, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.8287434,
+    "lng": -75.6742219,
+    "ies_marca": "UNAD",
+    "nombre": "CIP DOSQUEBRADAS",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 23 CON DIAGONAL 25F BARRIO MIL N, DOSQUEBRADAS, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 5.469734,
+    "lng": -74.6653851,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD La Dorada",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 32 1 40 BARRIO LA CONCORDIA, LA DORADA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.688831,
+    "lng": -76.662004,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Quibdó",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 2 24 05 BARRIO YESCA GRANDE, QUIBDO, CHOCO, COLOMBIA"
+  },
+  {
+    "lat": 8.0951588,
+    "lng": -76.7284559,
+    "ies_marca": "UNAD",
+    "nombre": "CIP Turbo",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 34 107 98 BARRIO LA LUCILA, TURBO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.453588,
+    "lng": -75.79153,
+    "ies_marca": "UNAD",
+    "nombre": "UDR La Tebaida",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 ENTRE CALLES 8 Y 9 JUNTO AL MUSEO DE LA QUINDIANIDAD LA TEBAIDA, LA TEBAIDA, QUINDIO, COLOMBIA"
+  },
+  {
+    "lat": 2.9302692,
+    "lng": -75.28006169999999,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Neiva",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 15 8 05, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 1.6327054,
+    "lng": -75.6048016,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Florencia",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 1 31 30 BARRIO CUNDUY, FLORENCIA, CAQUETA, COLOMBIA"
+  },
+  {
+    "lat": 4.44428,
+    "lng": -75.2199145,
+    "ies_marca": "UNAD",
+    "nombre": "CEAD Ibagué",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 34 9A 26 BARRIO SAN SIM N, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 2.393121,
+    "lng": -75.898501,
+    "ies_marca": "UNAD",
+    "nombre": "UDR La Plata",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 10 04, LA PLATA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 4.9224602,
+    "lng": -75.0642244,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Líbano",
+    "tipo_csu": "CSU",
+    "direccion": "BATALL N PATRIOTAS BARRIO LAS FERIAS, LIBANO, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 5.2006177,
+    "lng": -74.8937819,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Mariquita",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 4 6 36 BARRIO VILLA HOLANDA, MARIQUITA, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 1.8466969,
+    "lng": -76.0673424,
+    "ies_marca": "UNAD",
+    "nombre": "CCAV Pitalito",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA PASTRANA 19 50 SUR, PITALITO, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 0.4979607,
+    "lng": -76.49790999999999,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Puerto Asís",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 25 13 96 B EL RECREO, PUERTO ASIS, PUTUMAYO, COLOMBIA"
+  },
+  {
+    "lat": 2.1136446,
+    "lng": -74.7732056,
+    "ies_marca": "UNAD",
+    "nombre": "UDR San Vicente del Caguán",
+    "tipo_csu": "CSU",
+    "direccion": "KM 4 V A NEIVA, SAN VICENTE DEL CAGUAN, CAQUETA, COLOMBIA"
+  },
+  {
+    "lat": 5.4517184,
+    "lng": -74.66466799999999,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Valle del Guamuez",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 25 05 V A A LA DORADA, VALLE DEL GUAMUEZ, PUTUMAYO, COLOMBIA"
+  },
+  {
+    "lat": -0.1980143,
+    "lng": -74.7787402,
+    "ies_marca": "UNAD",
+    "nombre": "UDR Puerto Leguizamo",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 3 1 04 CENTRO, LEGUIZAMO, PUTUMAYO, COLOMBIA"
+  },
+  {
+    "lat": 4.698745,
+    "lng": -74.08956400000001,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CALLE 80",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 73 A 81 B 70 MINUTO DE DIOS, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.693717599999999,
+    "lng": -74.02687039999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE VALMARIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 119 4 22 USAQUEN, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.7476012,
+    "lng": -74.0303411,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CALLE 170",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 170 N 8G 31 USAQUEN, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.588955299999999,
+    "lng": -74.0839393,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE SAN CAMILO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 1 N 9 50 LAS CRUCES, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6252322,
+    "lng": -74.1511842,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE SAN LUCAS",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 35 A SUR 78 I 21 SAN LUCAS, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.593594,
+    "lng": -74.16739299999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE PADRE RAFAEL GARCIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 72 57R 41 SUR PERDOMO, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 6.3110127,
+    "lng": -75.55450429999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE ANTIOQUIA - CHOCO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 45 LA GABRIELA UNIMINUTO, BELLO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 11.000779,
+    "lng": -74.804057,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE ADMINISTRATIVA CARIBE",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 53 74 110 NTE CENTRO HISTORICO, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.9952395,
+    "lng": -74.7878325,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE EL CARMEN",
+    "tipo_csu": "SEDE",
+    "direccion": "MODELO BARRANQUILLA ATL NTICO, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.4233431,
+    "lng": -75.54035569999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CARIBE - CARTAGENA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 15 31 110, CARTAGENA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 3.4380005,
+    "lng": -76.54356229999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CASA MD - COP 16",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 25 2 01 Y CALLE 2A 24C 95, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.980800299999999,
+    "lng": -75.6013972,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CHINCHINA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9A 10 04, CHINCHINA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 3.8775135,
+    "lng": -77.0073496,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE BUENAVENTURA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 6 55C 42, BUENAVENTURA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.9113738,
+    "lng": -76.2951525,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE BUGA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 21 SUR CARRERA 12 COSTADO, GUADALAJARA DE BUGA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 1.2159234,
+    "lng": -77.28074120000001,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE PASTO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 27 16 68, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 3.4380687,
+    "lng": -76.5437101,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CALI",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 25 2 01 BARRIO SAN FERNANDO, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.8066545,
+    "lng": -75.8018917,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE PEREIRA",
+    "tipo_csu": "SEDE",
+    "direccion": "SECTOR GALICIA V A, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 6.1876526,
+    "lng": -75.59524720000002,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE COLEGIO ITAGUI",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 77B 52A 46 SANTA MARIA, ITAGUI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.8983706,
+    "lng": -76.6361941,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE URABA",
+    "tipo_csu": "SEDE",
+    "direccion": "670 CALLE 106 100110, APARTADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.1264904,
+    "lng": -73.121568,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE BUCARAMANGA A",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 24 24 34, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.130007999999999,
+    "lng": -73.1197552,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE BUCARAMANGA B",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 27 19 40, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.7600468,
+    "lng": -75.9499558,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CARTAGO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 4TA CON CALLE 25 ENTRADA AL MONASTERIO VIA AL BATALL N, CARTAGO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 5.6942574,
+    "lng": -76.6604673,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO TECNICO DEL CHOCO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 2N 0 26 B 08, QUIBDO, CHOCO, COLOMBIA"
+  },
+  {
+    "lat": 1.6125347,
+    "lng": -75.6068531,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO TECNICO FLORENCIA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 8 7 35 FLORENCIA CAQUET, FLORENCIA, CAQUETA, COLOMBIA"
+  },
+  {
+    "lat": 2.1932145,
+    "lng": -75.6266247,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE GARZON",
+    "tipo_csu": "SEDE",
+    "direccion": "A 3 140 CARRERA 6 350, GARZON, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 4.4349212,
+    "lng": -75.22716179999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE POLA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 3 41 A 4 163, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 4.4443079,
+    "lng": -75.23727989999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CENTRO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 5 14 77, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 4.4490812,
+    "lng": -75.1875803,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE CHICALA",
+    "tipo_csu": "SEDE",
+    "direccion": "ALDEAS INFANTILES SOS, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 5.4505742,
+    "lng": -74.66232409999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE LA DORADA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 3 10 30, LA DORADA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 4.429184999999999,
+    "lng": -75.2401862,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE LERIDA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 16 8 SUR 2 A 8 SUR 76, LERIDA, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 1.1522172,
+    "lng": -76.6484555,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO TUTORIAL",
+    "tipo_csu": "CSU",
+    "direccion": "UNIMINUTO 45 MOCOA PUTUMAYO, MOCOA, PUTUMAYO, COLOMBIA"
+  },
+  {
+    "lat": 2.932796,
+    "lng": -75.2904447,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO REGIONAL NEIVA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 5 12 75, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 1.8494693,
+    "lng": -76.0445737,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO REGIONAL PITALITO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 1B 5, PITALITO, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 7.0581245,
+    "lng": -73.8546216,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "ALIANZA COLEGIO",
+    "tipo_csu": "SEDE",
+    "direccion": "COLEGIO SANTA TERESITA CALLE 48 22 102, BARRANCABERMEJA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.8826332,
+    "lng": -72.5044798,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO REGIONAL CUCUTA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 14 6 22, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 3.8715695,
+    "lng": -67.9232822,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CERES GUAINIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CERES GUAINIA, INIRIDA, GUAINIA, COLOMBIA"
+  },
+  {
+    "lat": 1.2495334,
+    "lng": -70.2316997,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO TUTORIAL MITU",
+    "tipo_csu": "CSU",
+    "direccion": "CASA DE LA CULTURA, MITU, VAUPES, COLOMBIA"
+  },
+  {
+    "lat": 8.231255899999999,
+    "lng": -73.35489410000001,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "MD UNIMINUTO",
+    "tipo_csu": "CSU",
+    "direccion": "MD UNIMINUTO, OCAÑA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 8.6360732,
+    "lng": -72.73389279999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "MD UNIMINUTO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 5 MD UNIMINUTO, TIBU, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.1042862,
+    "lng": -73.6495161,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CAMPUS SAN JUAN EUDES",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 36 NO 5A CALLE 21 SUR, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.3495067,
+    "lng": -72.4021856,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "CENTRO REGIONAL YOPAL",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 19 6 85, YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 9.2612179,
+    "lng": -74.8273184,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "COLEGIO DIOCESANO",
+    "tipo_csu": "SEDE",
+    "direccion": "AVENIDA DEL OBISPO, MAGANGUE, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 11.2191274,
+    "lng": -74.1837379,
+    "ies_marca": "CUN",
+    "nombre": "SEDE SANTA MARTA",
+    "tipo_csu": "SEDE",
+    "direccion": "AVENIDA LIBERTADOR 29 13 CALLE 43 NO 1 109 C NDIDO, SANTA MARTA, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 10.947386,
+    "lng": -74.81918,
+    "ies_marca": "CUN",
+    "nombre": "SEDE BARRANQUILLA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 74 A 45 06 BARRANQUILLA, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.4053807,
+    "lng": -75.5147008,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS CARTAGENA",
+    "tipo_csu": "CSU",
+    "direccion": "DG 28 42 2 AMBERES, CARTAGENA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 9.3022133,
+    "lng": -75.386286,
+    "ies_marca": "CUN",
+    "nombre": "SEDE SINCELEJO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 25 25 180, SUCRE, SINCELEJO, COLOMBIA"
+  },
+  {
+    "lat": 8.756668699999999,
+    "lng": -75.8848107,
+    "ies_marca": "CUN",
+    "nombre": "SEDE MONTERIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 4 N 30 20 CENTRO, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 4.5984227,
+    "lng": -74.072515,
+    "ies_marca": "CUN",
+    "nombre": "SEDE BOGOTA PPAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 12B 04 79, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.584492399999999,
+    "lng": -74.0999246,
+    "ies_marca": "CUN",
+    "nombre": "SEDE RESTREPO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 17 SUR 16 45 RESTREPO, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.677252999999999,
+    "lng": -74.14475399999999,
+    "ies_marca": "CUN",
+    "nombre": "SEDE FONTIBON",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 20 74 100 FONTIBON, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6114564,
+    "lng": -74.1840667,
+    "ies_marca": "CUN",
+    "nombre": "SEDE SUR",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 60 SUR 80I 2, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 6.256081,
+    "lng": -75.58382399999999,
+    "ies_marca": "CUN",
+    "nombre": "SEDE MEDELLÍN",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 67A 48D 98 BARRIO SURAMERICANA, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.4455846,
+    "lng": -75.2401351,
+    "ies_marca": "CUN",
+    "nombre": "SEDE IBAGUE",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 5 11 65, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 2.9488509,
+    "lng": -75.2970498,
+    "ies_marca": "CUN",
+    "nombre": "SEDE NEIVA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 43 #1 109 CANDIDO COLEGIO CLARETIANO, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 1.6162399,
+    "lng": -75.6109189,
+    "ies_marca": "CUN",
+    "nombre": "SEDE CAQUETA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 15 N 8 34 RAICERO, FLORENCIA, CAQUETA, COLOMBIA"
+  },
+  {
+    "lat": 4.863347,
+    "lng": -74.0522871,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS CHIA",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA PRADILLA 4 80, CHIA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 0.8267221,
+    "lng": -77.63833720000001,
+    "ies_marca": "CUN",
+    "nombre": "SEDE COLEGIO IPIALES",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 4 13 29 IPIALES NARI O, IPIALES, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 7.8889638,
+    "lng": -72.49927799999999,
+    "ies_marca": "CUN",
+    "nombre": "SEDE CUCUTA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 9 0 64, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.1460641,
+    "lng": -73.6394075,
+    "ies_marca": "CUN",
+    "nombre": "CENTRO VILLAVICENCIO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 35 37 43, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.3340546,
+    "lng": -72.3910396,
+    "ies_marca": "CUN",
+    "nombre": "SEDE YOPAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 27 21 46, YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 4.6879661,
+    "lng": -74.0645465,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS SUBA",
+    "tipo_csu": "CSU",
+    "direccion": "TV 55 98 A 66 CENTRO COMERCIAL ISERRA 100, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.620144199999999,
+    "lng": -74.1526104,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS KENEDDY",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 78 B 38 C 70 SUR, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6043968,
+    "lng": -74.1844148,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS BOSA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 65SUR 78H 51 CENTRO COMERCIAL GRAN PLAZA BOSA, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.7154592,
+    "lng": -74.2149146,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS MOSQUERA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 14 10 12 FUNZA, FUNZA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 9.3022133,
+    "lng": -75.386286,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS SINCELEJO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 25 25 180, SINCELEJO, SUCRE, COLOMBIA"
+  },
+  {
+    "lat": 6.2352909,
+    "lng": -75.5706878,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS MEDELLÍN",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 43A 34 95, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 9.2256673,
+    "lng": -75.8097913,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS LORICA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 4 24 1 BARRIO CASCAJAL, LORICA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 9.1417075,
+    "lng": -75.5054944,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS SOTAVENTO",
+    "tipo_csu": "CSU",
+    "direccion": "TRANSVERSAL 7 CALLE 2 79, SAN ANDRES SOTAVENTO, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 11.2371401,
+    "lng": -74.179217,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS SANTA MARTA",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA EL LIBERTADOR 29 13, SANTA MARTA, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 4.6856082,
+    "lng": -74.052893,
+    "ies_marca": "UNIR",
+    "nombre": "SEDE CENTRAL VIRTUAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 100 19 61, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 6.210343099999999,
+    "lng": -75.57036719999999,
+    "ies_marca": "UNIR",
+    "nombre": "ALMAMATTER",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 10 NO 42 45 EDIFICIO PLAZA DEL POBLADO, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.6257949,
+    "lng": -74.1348805,
+    "ies_marca": "UNIR",
+    "nombre": "ASDEPRO",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 3A SUR NO 71C 19 GALER AS PLAZA DE LAS AM RICAS HOME SENTRY, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.1298033,
+    "lng": -73.637271,
+    "ies_marca": "UNIR",
+    "nombre": "CENACAP",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 11 #47 25 SEGUNDA ETAPA DE LA ESPERANZA, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 2.9300012,
+    "lng": -75.28931659999999,
+    "ies_marca": "UNIR",
+    "nombre": "CENALFTEC",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 11 N 5 85 CENTRO NEIVA, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 4.666128800000001,
+    "lng": -74.1257284,
+    "ies_marca": "UNIR",
+    "nombre": "CORFEDES",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 23 N 81 D 12 BARRIO MODELIA, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 5.052622899999999,
+    "lng": -75.4844119,
+    "ies_marca": "UNIR",
+    "nombre": "CORFEDES",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 23 N 69 09, MANIZALES, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 10.6373175,
+    "lng": -74.9239201,
+    "ies_marca": "UNIR",
+    "nombre": "CORPODESC",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 23 NO 26 31 AVENIDA BOGOT, SABANALARGA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.9939283,
+    "lng": -74.81175569999999,
+    "ies_marca": "UNIR",
+    "nombre": "CORPODESC",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 43 75B 83 CENTRO COMERCIAL SEMINARIO, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 5.8784896,
+    "lng": -73.5713177,
+    "ies_marca": "UNIR",
+    "nombre": "CORPOUNE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 4 19 20, MONIQUIRA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.0082134,
+    "lng": -73.47187219999999,
+    "ies_marca": "UNIR",
+    "nombre": "CORPOUNE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 13 5 47, GUATEQUE, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.827098899999999,
+    "lng": -73.033912,
+    "ies_marca": "UNIR",
+    "nombre": "CORPOUNE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 15 16 09, DUITAMA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.7169054,
+    "lng": -72.9244527,
+    "ies_marca": "UNIR",
+    "nombre": "CORPOUNE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 9 14 109, SOGAMOSO, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.544679899999999,
+    "lng": -73.35656999999999,
+    "ies_marca": "UNIR",
+    "nombre": "CORPOUNE",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 32 8 26, TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 7.893447,
+    "lng": -72.48746299999999,
+    "ies_marca": "UNIR",
+    "nombre": "EDUKA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 6 12 ESTE 45 BARRIO COLSAG, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 10.303152,
+    "lng": -73.39556329999999,
+    "ies_marca": "UNIR",
+    "nombre": "ESESCO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 4 15 15 CENTRO HIST RICO, VALLEDUPAR, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 7.1088334,
+    "lng": -73.1105956,
+    "ies_marca": "UNIR",
+    "nombre": "FITEC",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 58 N 32 16, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.812954,
+    "lng": -75.69558099999999,
+    "ies_marca": "UNIR",
+    "nombre": "FUNDACIÓN UNIVERSITARIA DEL EJE CAFETERO (FUNEC)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 9 #20 27, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 8.7585012,
+    "lng": -75.8862154,
+    "ies_marca": "UNIR",
+    "nombre": "MONTERIA",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 1 31 08, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 9.305877899999999,
+    "lng": -75.3975742,
+    "ies_marca": "UNIR",
+    "nombre": "POLINORTE",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 17 15 120 CALLE CHACURI, SINCELEJO, SUCRE, COLOMBIA"
+  },
+  {
+    "lat": 4.6515517,
+    "lng": -74.0663374,
+    "ies_marca": "LIBERTADORES",
+    "nombre": "EDIFICIO BOLIVAR",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 16 63A 68 BARRIOS UNIDOS, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.651675399999999,
+    "lng": -74.06617949999999,
+    "ies_marca": "LIBERTADORES",
+    "nombre": "SEDE SANTANDER",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 15 63 61, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 10.4213548,
+    "lng": -75.5343452,
+    "ies_marca": "LIBERTADORES",
+    "nombre": "SEDE CARTAGENA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 31 19 51 PIE DE LA POPA, CARTAGENA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 1.8067556,
+    "lng": -78.7638573,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE TUMACO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 14 8 01, SAN ANDRES DE TUMACO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 0.8239272,
+    "lng": -77.6343584,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE IPIALES",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 5 7 69, IPIALES, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 1.222581,
+    "lng": -77.28069500000001,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE PASTO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 32A 19 58, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 2.444665,
+    "lng": -76.6017969,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE POPAYAN",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 3 1N 23, POPAYAN, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 2.1972646,
+    "lng": -75.62500349999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE GARZON",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 7 8 34, GARZON, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 3.4277436,
+    "lng": -76.5460791,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE CALI",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 5 38 80 NUEVA GRANADA, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.5342283,
+    "lng": -76.2978652,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE PALMIRA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 37A PALMIRA VALLE DEL CAUCA, PALMIRA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.897319,
+    "lng": -76.298912,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE BUGA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 5 10 34, GUADALAJARA DE BUGA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.07824,
+    "lng": -76.19812999999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE TULUA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 34 CARRERA 26, TULUA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.4430815,
+    "lng": -75.24173040000001,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE IBAGUE",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 2 11 44, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 4.5416032,
+    "lng": -75.66769219999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE ARMENIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 18 6 24, ARMENIA, QUINDIO, COLOMBIA"
+  },
+  {
+    "lat": 4.7490089,
+    "lng": -75.9205717,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE CARTAGO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 5 17 103, CARTAGO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.8174689,
+    "lng": -75.6953181,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE PEREIRA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 4 2056 CENTRO PEREIRA RISARALDA, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 5.6934016,
+    "lng": -76.656213,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE QUIBDO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 30 AVENIDA AEROPUERTO, QUIBDO, CHOCO, COLOMBIA"
+  },
+  {
+    "lat": 6.249804699999999,
+    "lng": -75.56895580000001,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE MEDELLÍN",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 51 49 59 LA CANDELARIA, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.8847796,
+    "lng": -76.6322055,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE APARTADO",
+    "tipo_csu": "SEDE",
+    "direccion": "CENTRO COMERCIAL PLAZA DEL RIOS CALLE 100 103 95, APARTADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.9896122,
+    "lng": -75.1968182,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE CAUCASIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 22 9 44, CAUCASIA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 8.7400305,
+    "lng": -75.5286969,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE SAHAGUN",
+    "tipo_csu": "SEDE",
+    "direccion": "BAJO GRANDE SEDE PRINCIPAL, SAHAGUN, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 8.7547637,
+    "lng": -75.8860478,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE MONTERIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 27 4 31 BAJO GRANDE SEDE PRINCIPAL SAHAG N C RDOBA, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 9.3035137,
+    "lng": -75.39356289999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE SINCELEJO",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 20 20 62, SINCELEJO, SUCRE, COLOMBIA"
+  },
+  {
+    "lat": 7.8896353,
+    "lng": -72.48510329999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE CUCUTA",
+    "tipo_csu": "SEDE",
+    "direccion": "BARRIO LA PLAYA AVENIDA 3 14 67, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.122089399999999,
+    "lng": -73.1207933,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE BUCARAMANGA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 23 3348 ANTONIA SANTOS, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 5.826447099999999,
+    "lng": -73.0336343,
+    "ies_marca": "REMINGTON",
+    "nombre": "CENTRO DE TUTORIAS DUITAMA",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 15 16 101, DUITAMA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.7169054,
+    "lng": -72.9244527,
+    "ies_marca": "REMINGTON",
+    "nombre": "CENTRO DE TUTORIAS SOGAMOSO",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 9 14 109, SOGAMOSO, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.332969299999999,
+    "lng": -72.40466219999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE YOPAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9 231, YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 5.544679899999999,
+    "lng": -73.35656999999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE TUNJA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 32 8 26, TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 4.6648245,
+    "lng": -74.05818169999999,
+    "ies_marca": "REMINGTON",
+    "nombre": "SEDE BOGOTA",
+    "tipo_csu": "SEDE",
+    "direccion": "AK 15 80 52, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6911328,
+    "lng": -74.05153899999999,
+    "ies_marca": "ASTURIAS",
+    "nombre": "ASTURIAS CORPORACIÓN UNIVERSITARIA",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 19 104 37 USAQU N BOGOT CUNDINAMARCA, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 5.0247613,
+    "lng": -74.00051619999999,
+    "ies_marca": "AREANDINA",
+    "nombre": "ZIPAQUIRÁ- ZONA CENTRAL",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 7A 10 34 ZIPAQUIR CUNDINAMARCA, ZIPAQUIRA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 10.252471,
+    "lng": -75.347308,
+    "ies_marca": "CUN",
+    "nombre": "TELECAMPUS ARJONA",
+    "tipo_csu": "CSU",
+    "direccion": "TRANSVERSAL 7 CALLE 2 79, ARJONA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 4.812954,
+    "lng": -75.69558099999999,
+    "ies_marca": "UNIMINUTO",
+    "nombre": "SEDE PEREIRA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9 20 27 CAPITAL DE RISARALDA, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 4.6382124,
+    "lng": -74.0647314,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "CAMPUS CENTRAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9 51 11, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6565141,
+    "lng": -74.0563581,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "CAMPUS DOCTOR ANGÉLICO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9 72 90, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6791472,
+    "lng": -74.0419805,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "CAMPUS EL AQUINATE",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9 63 28, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.783672399999999,
+    "lng": -74.0414813,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "CAMPUS SAN ALBERTO MAGNO",
+    "tipo_csu": "SEDE",
+    "direccion": "AUTOPISTA NORTE CALLE 205 V A ARRAYANES KM 1 6, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 6.2805366,
+    "lng": -75.5879709,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "CAMPUS MEDELLIN",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 82 77 BB 27 BARRIO ROBLEDO, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.137017500000001,
+    "lng": -73.1285525,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "SECCIONAL BUCARAMANGA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 18 9 27 BUCARAMANGA SANTANDER, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.1491688,
+    "lng": -73.6285475,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "USTA",
+    "tipo_csu": "SEDE",
+    "direccion": "VILLAVICENCIO META, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.532827699999999,
+    "lng": -73.36368550000002,
+    "ies_marca": "SANTO TOMAS",
+    "nombre": "CAU TUNJA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 19 NO 11 64 CENTRO HIST RICO, TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 4.6374742,
+    "lng": -74.0712188,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE PRINCIPAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 19 N 49 20 BARRIO PALERMO, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.594799399999999,
+    "lng": -74.1766744,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE SUR",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 57 Z SUR N 75D 10 BOSA, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.607746,
+    "lng": -74.0736355,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE CRISANTO LUQUE",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 10 N 19 65 CENTRO, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.7541363,
+    "lng": -74.0513095,
+    "ies_marca": "ECCI",
+    "nombre": "CAMPUS 170",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 170 49B96, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.7250345,
+    "lng": -74.11518699999999,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE S",
+    "tipo_csu": "SEDE",
+    "direccion": "111011 BOGOT, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6394422,
+    "lng": -74.0712736,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE P",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 51 19 12, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6379652,
+    "lng": -74.0712638,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE J",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 19 49 77, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.636823,
+    "lng": -74.071499,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE G2",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 19 48 21, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6386067,
+    "lng": -74.0709408,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE J3",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 19 50 30, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6378378,
+    "lng": -74.0711611,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE E Y F",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 19 49 62, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6378848,
+    "lng": -74.0713404,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE K",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 19 49 57, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.594799399999999,
+    "lng": -74.1766744,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE SUR CIUDAD BOLÍVAR",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 57Z SUR 75D 10, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 6.2470924,
+    "lng": -75.5654919,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE MEDELLÍN",
+    "tipo_csu": "SEDE",
+    "direccion": "AVENIDA AYACUCHO 45 65, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.4563862,
+    "lng": -76.53305859999999,
+    "ies_marca": "ECCI",
+    "nombre": "SEDE CALI",
+    "tipo_csu": "SEDE",
+    "direccion": "AVENIDA NTE 13N 03, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 2.92849,
+    "lng": -75.294127,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "Campus Neiva",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 11 NO 1 G 31 B, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 1.2295712,
+    "lng": -77.2898094,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "Campus Pasto",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 18 NO 47 150 TOROBAJO, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 2.4573997,
+    "lng": -76.5946259,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS POPAYAN",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 9 NO 23 N 26 CIUDAD JARD N, POPAYAN, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.390912,
+    "lng": -76.55081000000001,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS CALI",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 73 NO 2 A 80, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.444675999999999,
+    "lng": -75.24243799999999,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS ESPINAL",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 11 NO 15 01 BARRIO SANTA MARGARITA MAR A, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 4.4512341,
+    "lng": -75.1808401,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS IBAGUÉ",
+    "tipo_csu": "SEDE",
+    "direccion": "BLOQUE EDIFICIO CENTRAL CALLE 10 NO 1 164, IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 4.803908,
+    "lng": -75.6990105,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS PEREIRA",
+    "tipo_csu": "SEDE",
+    "direccion": "COMPLEJO EDUCATIVO LA JULITA FRENTE A LA CANCHA DE LA UTP, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 4.750262,
+    "lng": -75.9153022,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS CARTAGO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 4 NO 13 54, CARTAGO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.626145999999999,
+    "lng": -74.0692084,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS BOGOTA",
+    "tipo_csu": "SEDE",
+    "direccion": "AVENIDA CARACAS NO 37 63, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.154762,
+    "lng": -73.6280589,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS VILLAVICENCIO",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 22 NO 7 06, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.6940802,
+    "lng": -76.65935429999999,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS QUIBDÓ",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 30 NO 4 27 BARRIO CRISTO REY, QUIBDO, CHOCO, COLOMBIA"
+  },
+  {
+    "lat": 6.246449,
+    "lng": -75.5610872,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS MEDELLIN ",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 42 NO 49 95 BLOQUE A CALLE 50 N 40 74, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.877186,
+    "lng": -76.63204,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS APARTADÓ",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 91 NO 96 A 93 MANZANARES, APARTADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 8.750983,
+    "lng": -75.8785348,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS MONTERIA",
+    "tipo_csu": "SEDE",
+    "direccion": "CAMPUS UNIVERSITARIO CALLE 52A NO 6 79, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 7.0689949,
+    "lng": -73.8509402,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS BARRANCABERMEJA",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 60 NO 28 129 FLORESTA BAJA, BARRANCABERMEJA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.132612399999999,
+    "lng": -73.1278377,
+    "ies_marca": "COOPERATIVA",
+    "nombre": "CAMPUS BUCARAMANGA",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 18 14 47 ARAUCA BARRIO CRISTO REY, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.6464623,
+    "lng": -74.0614524,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC-BOGOTA CHAPINERO CITY CAMPUS (PG)",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 61 7 69, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": -4.2170349,
+    "lng": -69.9376056,
+    "ies_marca": "POLI",
+    "nombre": "AMAZONAS - LETICIA (INSTITUCIÓN EDUCATIVA PARA EL AMAZONAS I.E.A)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 6 A N 3 41 BARRIO GAIT N LETICIA AMAZONAS, LETICIA, AMAZONAS, COLOMBIA"
+  },
+  {
+    "lat": 5.6551332,
+    "lng": -75.8773866,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - ANDES (MANAGER)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 50 NO 49 75, ANDES, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.883108000000001,
+    "lng": -76.634253,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - APARTADO (CENTRO EDUCACION Y EMPREND)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 103 NO 98 16 BARRIO ORTIZ, APARTADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.4361916,
+    "lng": -75.332259,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - BARBOSA (PATRICIA CASTAÑEDA MORENO)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 15 10 40, BARBOSA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.0922865,
+    "lng": -75.6363812,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - CALDAS (LINEA CONCEPTUAL SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 129 SUR NO 50 33 INT 201, CALDAS, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1749804,
+    "lng": -75.60523959999999,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - ITAGÜÍ – CENTRO ( SA VIRTUAL SCHOOL)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 51 56 59 VILLA PAULA ITAGUI CENTRO, ITAGUI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.0298998,
+    "lng": -75.4305712,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - LA CEJA (ALMA MATTER SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, LA CEJA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.6705907,
+    "lng": -74.0575284,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA COUNTRY (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 19 NO 84 72, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 3.4794072,
+    "lng": -76.52535,
+    "ies_marca": "POLI",
+    "nombre": "VALLE DEL CAUCA - CALI NORTE (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 6 NORTE #20 67, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 6.2476376,
+    "lng": -75.56581530000001,
+    "ies_marca": "POLI",
+    "nombre": "MEDELLIN CENTRAL (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 10.995726,
+    "lng": -74.808649,
+    "ies_marca": "POLI",
+    "nombre": "ATLANTICO - BARRANQUILLA CL 76 CON CRA 46 (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 76 CON CARRERA 46 39 BARRIO EL PORVENIR, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 6.262201999999999,
+    "lng": -75.588831,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - MEDELLIN CAMPUS BARRIO LOS COLORES (PG)",
+    "tipo_csu": "SEDE",
+    "direccion": "CARRERA 74 #52 20 BARRIO LOS COLORES MEDELL N, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1701429,
+    "lng": -75.3348324,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - MARINILLA (T-PROYECTA S.A.S)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 26 28 30, MARINILLA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.152775,
+    "lng": -75.373685,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - RIONEGRO CRA 50 (VIRTUAL SHOOL)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 50 48 26, RIONEGRO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1512857,
+    "lng": -75.6138765,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - SABANETA (MANAGER ASOCIADOS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 68 SUR N 43 A 53, SABANETA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.585616300000001,
+    "lng": -74.09507339999999,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA SUBA (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.9670714,
+    "lng": -73.91353529999999,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - TOCANCIPA - CERES (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 12 NO 7 17 A UNA CUADRA DE LA ALCALD A, TOCANCIPA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.5574581,
+    "lng": -75.82493590000001,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - SANTAFE DE ANTIOQUIA (T-PROYECTA SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 13 7 21, SANTAFE DE ANTIOQUIA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.962639999999999,
+    "lng": -75.417326,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - YARUMAL (MANAGER)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 20 19 29 INT 302 ED SAN RAFAEL, YARUMAL, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 12.580134,
+    "lng": -81.6896469,
+    "ies_marca": "POLI",
+    "nombre": "ARCHIPIELAGO DE SAN ANDRES (CAJASAI)",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA FRANCISCO NEWBALL NO 4 138, SAN ANDRES, ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA, COLOMBIA"
+  },
+  {
+    "lat": 10.9263231,
+    "lng": -74.767229,
+    "ies_marca": "POLI",
+    "nombre": "ATLANTICO - SOLEDAD HIPODROMO (FUNDACION MUJER BR)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 30 NO 23 33 HIP DROMO SOLEDAD, SOLEDAD, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 4.6188556,
+    "lng": -74.1352285,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA KENNEDY (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "C C PLAZA DE LAS AMERICAS 2DO, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.598412,
+    "lng": -74.1153915,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA 1ra MAYO (CIES)",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA PRIMERO DE MAYO NO 28 44, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 5.6154177,
+    "lng": -73.8145918,
+    "ies_marca": "POLI",
+    "nombre": "BOYACA - CHIQUINQUIRA (SOLUCIONES EDUCATIVAS Y PR)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 17 7 34 EDIFICIO BALCONES DE LA BALSA, CHIQUINQUIRA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.8323372,
+    "lng": -73.0312467,
+    "ies_marca": "POLI",
+    "nombre": "BOYACA - DUITAMA (COLEGIO SIMON BOLIVAR)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 20A NO 12 32, DUITAMA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.7164616,
+    "lng": -72.9277955,
+    "ies_marca": "POLI",
+    "nombre": "BOYACA - SOGAMOSO (COLEGIO SIMON BOLIVAR)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 13 11 31 EDIFICIO EMPRESARIAL ALVAREZ, SOGAMOSO, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.542447,
+    "lng": -73.363455,
+    "ies_marca": "POLI",
+    "nombre": "BOYACA - TUNJA NORTE (AGENCIA REPRESENTANTE)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 28 NO 9 14 BARRIO MALDONADO, TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.453920000000001,
+    "lng": -74.666528,
+    "ies_marca": "POLI",
+    "nombre": "CALDAS – LA DORADA (STARLITE)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 16 19 B CENTRO, LA DORADA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.0667845,
+    "lng": -75.52232889999999,
+    "ies_marca": "POLI",
+    "nombre": "CALDAS- MANIZALES (STARLITE)",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA SANTANDER NO 59 70 MULTICENTRO ESTRELLA LOCALES 22 Y 23 MANIZALES, MANIZALES, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 6.3349217,
+    "lng": -75.5574501,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - BELLO (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CENTRO COMERCIAL BELLO CENTRO CALLE 50 48 56, BELLO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 10.3932277,
+    "lng": -75.4832311,
+    "ies_marca": "POLI",
+    "nombre": "BOLIVAR - CARTAGENA CC LA PLAZUELA (PG)",
+    "tipo_csu": "CSU",
+    "direccion": ", CARTAGENA, BOLIVAR, COLOMBIA"
+  },
+  {
+    "lat": 1.6313624,
+    "lng": -75.60380359999999,
+    "ies_marca": "POLI",
+    "nombre": "CAQUETA - FLORENCIA (EDUCAR SOLUCIONES INTEGRALES S.A.S.)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 1 29 08 BARRIO EL CUNDUY FLORENCIA CAQUET, FLORENCIA, CAQUETA, COLOMBIA"
+  },
+  {
+    "lat": 5.3388963,
+    "lng": -72.4014834,
+    "ies_marca": "POLI",
+    "nombre": "CASANARE - YOPAL (CSU ORIGENES CASANARE S.A.S.)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 17 14 04 BARRIO LA ESPERANZA, YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 3.4157148,
+    "lng": -76.4684386,
+    "ies_marca": "POLI",
+    "nombre": "VALLE DEL CAUCA - CALI SUR C.C COSMOCENTRO (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 2.4401667,
+    "lng": -76.6075,
+    "ies_marca": "POLI",
+    "nombre": "CAUCA - POPAYAN (ALMA MATTER SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 7 6 66 CENTRO DE POPAY N SEGUNDO, POPAYAN, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.005854,
+    "lng": -76.4824525,
+    "ies_marca": "POLI",
+    "nombre": "CAUCA - SANTANDER DE QUILICHAO(EDUCACIÓN FORMAL INTEGRAL COLOMBIA S.A.S.)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 9 1 SUR 16, SANTANDER DE QUILICHAO, CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 8.3096176,
+    "lng": -73.6150984,
+    "ies_marca": "POLI",
+    "nombre": "CESAR - AGUACHICA (EDUCO SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 NO 19 33, AGUACHICA, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 9.5639443,
+    "lng": -73.3322704,
+    "ies_marca": "POLI",
+    "nombre": "CESAR - LA JAGUA DE IBIRICO (FUNDACION PARA EL DESARROLLO HUMANO INTEGRAL DEL SABER)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 4 CLL 10 119 BARRIO 5 DE MARZO, LA JAGUA DE IBIRICO, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 10.475024,
+    "lng": -73.248021,
+    "ies_marca": "POLI",
+    "nombre": "CESAR - VALLEDUPAR (LUIS FERNANDO MORENO VILLALBA)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 15 83 CENTRO, VALLEDUPAR, CESAR, COLOMBIA"
+  },
+  {
+    "lat": 8.7366579,
+    "lng": -75.8853025,
+    "ies_marca": "POLI",
+    "nombre": "CORDOBA - MONTERIA (LUIS FERNANDO MORENO VILLALBA)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 24 N 11 87 BARRIO CENTRO MONTERIA, MONTERIA, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 9.18719,
+    "lng": -75.55416,
+    "ies_marca": "POLI",
+    "nombre": "CORDOBA - TUCHIN (ALIANZA AMY SOPHIA SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, TUCHIN, CORDOBA, COLOMBIA"
+  },
+  {
+    "lat": 4.9186282,
+    "lng": -74.029265,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - CAJICA (GRUPO ALIQUAM)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 3 NO 8A 41, CAJICA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.863934899999999,
+    "lng": -74.043081,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - CHIA (GRUPO ALIQUAM)",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA PADILLA 2 71 ESTE CENTRO COMERCIAL SABANA NORTE, CHIA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.1458908,
+    "lng": -73.6396362,
+    "ies_marca": "POLI",
+    "nombre": "META - VILLAVICENCIO (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 38 34 69, VILLAVICENCIO, META, COLOMBIA"
+  },
+  {
+    "lat": 4.8119002,
+    "lng": -74.3559409,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - FACATATIVA (VIRTUAL INNOVA SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, FACATATIVA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.336504,
+    "lng": -74.361874,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - FUSAGASUGA (CSU 20 DE JULIO S.A.S)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 15 97 FUSAGASUGA CUNDINAMARCA, FUSAGASUGA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.644275299999999,
+    "lng": -74.0679346,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA CAMPUS PRINCIPAL (PG)",
+    "tipo_csu": "SEDE",
+    "direccion": "CALLE 57 3 00 ESTE, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.2959739,
+    "lng": -74.80497609999999,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - GIRARDOT (SOLUCIONES EDUCATIVAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 18 9 36, GIRARDOT, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.7130565,
+    "lng": -74.21902709999999,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - MOSQUERA (VIRTUAL INNOVA)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 3 19 37, MOSQUERA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.587502499999999,
+    "lng": -74.2059695,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - SOACHA (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 7A 30 05 SOACHA CUNDINAMARCA C C GRAN PLAZA SOACHA 2DO, SOACHA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.025875399999999,
+    "lng": -74.001297,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - ZIPAQUIRA (PG)",
+    "tipo_csu": "CSU",
+    "direccion": ", ZIPAQUIRA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.0110244,
+    "lng": -74.4707469,
+    "ies_marca": "POLI",
+    "nombre": "CUNDINAMARCA - VILLETA CC IMPERIO (EDUCATION TECHNOLOGY SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 NO 6 17 CENTRO COMERCIAL IMPERIO, VILLETA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.585616300000001,
+    "lng": -74.09507339999999,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA TITAN (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 3.8685616,
+    "lng": -67.9260243,
+    "ies_marca": "POLI",
+    "nombre": "GUAINIA (COMCAJA)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 20 7 34 BARRIO BERL N DE GUAIN A, INIRIDA, GUAINIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2476376,
+    "lng": -75.56581530000001,
+    "ies_marca": "POLI",
+    "nombre": "ANTIOQUIA - MEDELLIN - PUNTO CLAVE (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.710703,
+    "lng": -74.1119523,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA CALLE 80 (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "C C PORTAL 80 2DO, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.6049755,
+    "lng": -74.1850281,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA BOSA (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CLL 65 SUR 78 H 51, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.585616300000001,
+    "lng": -74.09507339999999,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA DC - BOGOTA FONTIBON (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 11.540733,
+    "lng": -72.916234,
+    "ies_marca": "POLI",
+    "nombre": "GUAJIRA - RIOHACHA (EDUCONECTA)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 15 14 B 19, RIOHACHA, LA GUAJIRA, COLOMBIA"
+  },
+  {
+    "lat": 2.5685242,
+    "lng": -72.6424716,
+    "ies_marca": "POLI",
+    "nombre": "GUAVIARE - SAN JOSE DEL GUAVIARE (EDUCAR SOLUCIONES INTEGRALES S.A.S)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 23 NO 10 15 BARRIO LA ESPERANZA EN EL MUNICIPIO DE SAN JOS DEL GUAVIARE, SAN JOSE DEL GUAVIARE, GUAVIARE, COLOMBIA"
+  },
+  {
+    "lat": 2.9275753,
+    "lng": -75.2879986,
+    "ies_marca": "POLI",
+    "nombre": "HUILA – NEIVA (CAMPUS VIRTUAL)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 6 #8 15 BARRIO CENTRO, NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 1.8495823,
+    "lng": -76.0452774,
+    "ies_marca": "POLI",
+    "nombre": "HUILA - PITALITO (CAMPUS VIRTUAL)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 5 1B 35, PITALITO, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 11.2403547,
+    "lng": -74.2110227,
+    "ies_marca": "POLI",
+    "nombre": "MAGDALENA - SANTA MARTA (BLUE STAR)",
+    "tipo_csu": "CSU",
+    "direccion": ", SANTA MARTA, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 6.2476376,
+    "lng": -75.56581530000001,
+    "ies_marca": "POLI",
+    "nombre": "MEDELLIN CENTRO ZONA UNIVERSITARIA (MANAGER ASOCIADOS SA)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 42 50 15 INT 202 CARRERA C RDOBA ENTRE LAS CALLES COLOMBIA Y LA PLAYA, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.9856108,
+    "lng": -73.7592599,
+    "ies_marca": "POLI",
+    "nombre": "META - ACACIAS (CAMPUS VIRTUAL)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 13 N 15 56 CENTRO, ACACIAS, META, COLOMBIA"
+  },
+  {
+    "lat": 37.8005245,
+    "lng": -8.6719946,
+    "ies_marca": "POLI",
+    "nombre": "NARIÑO - IPIALES (CENTRO DE ESTUDIOS INSETEC S.A.S.)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 25 8 20 BARRIO SAN FERNANDO CERCAL AL CENTRO COMERCIAL GRAN PLAZA, IPIALES, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 1.2139541,
+    "lng": -77.28115939999999,
+    "ies_marca": "POLI",
+    "nombre": "NARIÑO - PASTO (LOCOMOTORA CONEXION DE IDEAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 25 15 43, PASTO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 7.8867309,
+    "lng": -72.5026761,
+    "ies_marca": "POLI",
+    "nombre": "NORTE DE SANTANDER - CUCUTA (EDUCACION VIRTUAL INTEGRAL SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "AVENIDA 4 #10 35 CENTRO C CUTA CSU, CUCUTA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 8.233272,
+    "lng": -73.353009,
+    "ies_marca": "POLI",
+    "nombre": "NORTE DE SANTANDER - OCAÑA (EDUCACION VIRTUAL Y R)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 12 NO 10 75, OCAÑA, NORTE DE SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.5930746,
+    "lng": -74.1219326,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA - CENTRO MAYOR (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 38 SUR 34D 51 PLAZA CONTORSIONISTA, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 4.585616300000001,
+    "lng": -74.09507339999999,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTA - TINTAL PLAZA (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  },
+  {
+    "lat": 0.5019891,
+    "lng": -76.5021258,
+    "ies_marca": "POLI",
+    "nombre": "PUTUMAYO - PUERTO ASIS (ORGANIZACION EMPRESARIAL CIMA S.A.S)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 20 12 23 BARRIO LAS AMERICAS DIAGONAL A LA PISTA DEL AEROPUERTO, PUERTO ASIS, PUTUMAYO, COLOMBIA"
+  },
+  {
+    "lat": 4.538722,
+    "lng": -75.67089849999999,
+    "ies_marca": "POLI",
+    "nombre": "QUINDIO - ARMENIA (STARLITE)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 12 N 18 06 EDIFICIO VULCANO, ARMENIA, QUINDIO, COLOMBIA"
+  },
+  {
+    "lat": 4.8121333,
+    "lng": -75.6948073,
+    "ies_marca": "POLI",
+    "nombre": "RISARALDA - PEREIRA  (EDUAVANZAMOS)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 10 19 27 BARRIO CENTRO, PEREIRA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 4.8738784,
+    "lng": -75.62265,
+    "ies_marca": "POLI",
+    "nombre": "RISARALDA - SANTA ROSA DE CABAL (ACCION EDUCATIVA SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 13 29 A 06 DEL BARRIO PINARES DEL MUNICIPIO DE SANTA ROSA DE CABAL, SANTA ROSA DE CABAL, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 7.0615414,
+    "lng": -73.85927199999999,
+    "ies_marca": "POLI",
+    "nombre": "SANTANDER - BARRANCABERMEJA (ARACELYS PEREZ REY)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 52 18 14, BARRANCABERMEJA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.120313599999999,
+    "lng": -73.1209009,
+    "ies_marca": "POLI",
+    "nombre": "SANTANDER - BUCARAMANGA (CAMPUS VIRTUAL E LEARNING)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 22 35 46 EDIFICIO APOLO CENTRO, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.0646045,
+    "lng": -73.1685452,
+    "ies_marca": "POLI",
+    "nombre": "SANTANDER - GIRON (EDUCACIÓN VIRTUAL RED CORPORATIVA )",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 26 22 25, GIRON, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 9.3022133,
+    "lng": -75.386286,
+    "ies_marca": "POLI",
+    "nombre": "SUCRE - SINCELEJO (ALIANZA AMY SOPHIA SAS)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 25 25 180 LOC 1 BARRIO BOSTON SINCELEJO SUCRE, SINCELEJO, SUCRE, COLOMBIA"
+  },
+  {
+    "lat": 4.444675999999999,
+    "lng": -75.24243799999999,
+    "ies_marca": "POLI",
+    "nombre": "TOLIMA - IBAGUE (BLUE STAR)",
+    "tipo_csu": "CSU",
+    "direccion": ", IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 3.8693928,
+    "lng": -74.8507131,
+    "ies_marca": "POLI",
+    "nombre": "TOLIMA - PURIFICACION (INNOVAR)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 7 8A 77 BARRIO CAYCEDO Y FL REZ, PURIFICACION, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 3.8904905,
+    "lng": -77.0783089,
+    "ies_marca": "POLI",
+    "nombre": "VALLE - BUENAVENTURA (CETEP)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 2 3 19, BUENAVENTURA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 10.9896234,
+    "lng": -74.7887466,
+    "ies_marca": "POLI",
+    "nombre": "BARRANQUILLA CENTRO (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 53 46 192, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 4.750096,
+    "lng": -75.920827,
+    "ies_marca": "POLI",
+    "nombre": "VALLE - CARTAGO (EDUAVANZAMOS)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 4 NO 17 147, CARTAGO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.89814,
+    "lng": -76.29857899999999,
+    "ies_marca": "POLI",
+    "nombre": "VALLE DEL CAUCA - BUGA (COCREAMMOS S.A.S.)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 6 10 29, GUADALAJARA DE BUGA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.5236632,
+    "lng": -76.3037484,
+    "ies_marca": "POLI",
+    "nombre": "VALLE DEL CAUCA - PALMIRA (INNDEA LAB S.A.S.)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 33 25 31 PALMIRA VALLE DEL CAUCA, PALMIRA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.0862029,
+    "lng": -76.19584329999999,
+    "ies_marca": "POLI",
+    "nombre": "VALLE DEL CAUCA - TULUA (ORION)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 27 N 24 59, TULUA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 1.2568506,
+    "lng": -70.2360656,
+    "ies_marca": "POLI",
+    "nombre": "VAUPES - MITU (COMCAJA)",
+    "tipo_csu": "CSU",
+    "direccion": "CARRERA 14 N 12 43 HOTEL JM 2, MITU, VAUPES, COLOMBIA"
+  },
+  {
+    "lat": 6.183722100000001,
+    "lng": -67.4883492,
+    "ies_marca": "POLI",
+    "nombre": "VICHADA - PUERTO CARREÑO (COMCAJA)",
+    "tipo_csu": "CSU",
+    "direccion": "CALLE 15 13 70 BARRIO LA PRIMAVERA DE VICHADA, PUERTO CARREÑO, VICHADA, COLOMBIA"
+  },
+  {
+    "lat": 4.585616300000001,
+    "lng": -74.09507339999999,
+    "ies_marca": "POLI",
+    "nombre": "BOGOTÁ DC - BOGOTÁ USME (PG)",
+    "tipo_csu": "CSU",
+    "direccion": "CSU VIRTUAL, BOGOTA, D.C., BOGOTA, D.C., COLOMBIA"
+  }
+]
