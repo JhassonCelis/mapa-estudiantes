@@ -1,0 +1,3728 @@
+[
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional Penitenciario Y Carcelario",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.639504,
+    "lng": -74.06714,
+    "categoria": "Sector público",
+    "nombre": "Defensa Civil Colombiana",
+    "telefono": "+57-60-1-319-9000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 52 14 67, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.570868,
+    "lng": -74.297333,
+    "categoria": "Sector público",
+    "nombre": "Instituto Colombiano De Bienestar Familiar",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": ", , , COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Unidad Administrativa Especial Direccion De Impuestos Y Aduanas Nacionales",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.6685725,
+    "lng": -74.1145306,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional de Vias",
+    "telefono": "+57-60-1-377-0600",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 25G 73B 90 CENTRO EMPRESARIAL CENTRAL POINT, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.570868,
+    "lng": -74.297333,
+    "categoria": "Sector público",
+    "nombre": "Ejercito Nacional De Colombia 1",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": ", , , COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Direccion General De La Policia Nacional 1",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Armada Nacional De Colombia",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Kennedy",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Bosa",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.678539,
+    "lng": -74.11560899999999,
+    "categoria": "Sector público",
+    "nombre": "Unidad Para La Atencion y Reparacion Integral A Las Victimas",
+    "telefono": "+57-60-1-796-5150",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 85 D 46 A 65, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.623871299999999,
+    "lng": -74.0785472,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional Penitenciario y Carcelario",
+    "telefono": "+57-60-1-234-7262",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 27 48, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6076349,
+    "lng": -74.0702142,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Desarrollo Urbano",
+    "telefono": "+57-60-1-338-6660",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 22 6 27, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Procuraduria General de la Nacion",
+    "telefono": "+57-60-1-587-8750",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 5 15 80, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6398619,
+    "lng": -74.094352,
+    "categoria": "Sector público",
+    "nombre": "Registraduria Nacional del Estado Civil",
+    "telefono": "+57-60-1-220-2880",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 51 50, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6526462,
+    "lng": -74.09890899999999,
+    "categoria": "Sector público",
+    "nombre": "Fondo Rotario de la Policia Nacional",
+    "telefono": "+57-60-1-220-7137",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 66 A 43 18, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.2423424,
+    "lng": -75.5738375,
+    "categoria": "Sector público",
+    "nombre": "Area Metropolitana del Valle de Aburra",
+    "telefono": "+57-60-4-385-6000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 41 53 07, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.1070255,
+    "lng": -73.12351269999999,
+    "categoria": "Sector público",
+    "nombre": "Unidades Tecnologicas de Santander",
+    "telefono": "+57-60-7-691-7700",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE DE LOS ESTUDIANTES 9 82, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Fondo Financiero Distrital de Salud",
+    "telefono": "+57-60-1-364-9537",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 13 32 81, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.596130899999999,
+    "lng": -74.0763724,
+    "categoria": "Sector público",
+    "nombre": "Camara de Representantes",
+    "telefono": "+57-60-1-390-4050",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 8 68, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.646901199999999,
+    "lng": -74.0957324,
+    "categoria": "Sector público",
+    "nombre": "Agencia de Desarrollo Rural - Adr",
+    "telefono": "+57-60-1-748-2227",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 43 57 41, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6411222,
+    "lng": -74.06598439999999,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. de Servicios Publicos - Bogota",
+    "telefono": "+57-60-1-358-0400",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CARACAS 53 80, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.596130899999999,
+    "lng": -74.0763724,
+    "categoria": "Sector público",
+    "nombre": "Senado de la Republica",
+    "telefono": "+57-60-1-382-4362",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 8 68 EDIFICIO NUEVO, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.616643799999999,
+    "lng": -74.0732669,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Investigaciones en Recursos Biologicos Alexander Von Humboldt",
+    "telefono": "+57-60-1-320-2767",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 28 A 15 09, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chapinero",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Suba",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Engativa",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 5.0629743,
+    "lng": -75.5027698,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Manizales",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MANIZALES, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Fontibon",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Usme",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 3.8828761,
+    "lng": -77.01972789999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Distrital De Buenaventura Distrito Especial, Industrial, Portuario, Biodiverso Y Ecoturistico",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BUENAVENTURA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.8626039,
+    "lng": -74.0559882,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CHIA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Antonio Nariño",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Puente Aranda",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Los Martires",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Rafael Uribe Uribe",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Ciudad Bolivar",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Tunjuelito",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De San Cristobal",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Santafe",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 2.9344837,
+    "lng": -75.2809001,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Neiva",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NEIVA, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 4.8318256,
+    "lng": -75.68056779999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Dosquebradas",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", DOSQUEBRADAS, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 5.348903,
+    "lng": -72.40052299999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Yopal",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", YOPAL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Teusaquillo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Barrios Unidos",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 5.730859,
+    "lng": -75.142186,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Apartado",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ARGELIA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.5446422,
+    "lng": -73.3575572,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tunja",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TUNJA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 4.7176677,
+    "lng": -74.2118741,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Funza",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", FUNZA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.7160848,
+    "lng": -72.93112889999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sogamoso",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SOGAMOSO, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 4.345152,
+    "lng": -74.361823,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Fusagasuga",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", FUSAGASUGA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.7176677,
+    "lng": -74.2118741,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Girardot",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", FUNZA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.8268951,
+    "lng": -73.0329273,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Duitama",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", DUITAMA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.4517184,
+    "lng": -74.66466799999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De La Dorada",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LA DORADA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Usaquen",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.9731839,
+    "lng": -73.9242251,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tocancipa",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TOCANCIPA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.0298998,
+    "lng": -75.4305712,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De La Ceja Del Tambo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LA CEJA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.025875399999999,
+    "lng": -74.001297,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Zipaquira",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ZIPAQUIRA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.444675999999999,
+    "lng": -75.24243799999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Ibague",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", IBAGUE, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 3.991663,
+    "lng": -73.76612899999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Acacias",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ACACIAS, META, COLOMBIA"
+  },
+  {
+    "lat": 6.3774241,
+    "lng": -75.44556620000002,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Girardota",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GIRARDOTA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.8946048,
+    "lng": -76.3055772,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Candelaria Valle Del Cauca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GUADALAJARA DE BUGA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 6.2794439,
+    "lng": -75.4414034,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Guarne",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GUARNE, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.614775,
+    "lng": -73.819571,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chiquinquira",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CHIQUINQUIRA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.1731064,
+    "lng": -75.3378851,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Marinilla",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MARINILLA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 4.8483399,
+    "lng": -74.1474846,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tenjo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TENJO, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.600265200000001,
+    "lng": -74.07393139999999,
+    "categoria": "Sector público",
+    "nombre": "Caja de Sueldos de Retiro de la Policia Nacional",
+    "telefono": "+57-60-1-286-0911, +57-60-1-334-0482",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 12B 58, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5964597,
+    "lng": -74.0746231,
+    "categoria": "Sector público",
+    "nombre": "Fondo Rotatorio del Ministerio de Relaciones Exteriores",
+    "telefono": "+57-60-1-381-4000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 10 5 51, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6800131,
+    "lng": -74.0478515,
+    "categoria": "Sector público",
+    "nombre": "Agencia Logistica de las Fuerzas Militares",
+    "telefono": "+57-60-1-651-0420",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 95 13 08, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6449172,
+    "lng": -74.0992655,
+    "categoria": "Sector público",
+    "nombre": "Ministerio de Ciencia, Tecnologia e Innovacion",
+    "telefono": "+57-60-1-625-8480",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 57 83, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital de las Artes",
+    "telefono": "+57-60-1-379-5750",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 8 15 46, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6157218,
+    "lng": -74.0712277,
+    "categoria": "Sector público",
+    "nombre": "Procolombia",
+    "telefono": "+57-60-1-327-5500",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 28 13A 15, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6829244,
+    "lng": -74.1202967,
+    "categoria": "Sector público",
+    "nombre": "Instituto Colombiano Para La Evaluacion de la Educacion",
+    "telefono": "+57-60-1-484-1410",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 69 76, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6829244,
+    "lng": -74.1202967,
+    "categoria": "Sector público",
+    "nombre": "Direccion Nacional de Bomberos",
+    "telefono": "+57-60-1-555-7926",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 69 76, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6582396,
+    "lng": -74.05261759999999,
+    "categoria": "Sector público",
+    "nombre": "Agencia Nacional de Defensa Juridica del Estado",
+    "telefono": "+57-60-1-255-8955",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 75 66, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6748386,
+    "lng": -74.1135379,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital de Gestion de Riesgos y Cambio Climatico",
+    "telefono": "+57-60-1-429-2801, +57-60-1-429-7414, +57-60-1-410-9036",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "DIAGONAL 47 77 A 09 BG 11, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Comision Nacional del Servicio Civil",
+    "telefono": "+57-60-1-325-9700, +57-60-1-541-5083",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "KRA 16 96 64, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6414193,
+    "lng": -74.0651269,
+    "categoria": "Sector público",
+    "nombre": "Caja de Vivienda Popular",
+    "telefono": "+57-60-1-349-4520",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 54 13 30, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.651956999999999,
+    "lng": -74.0567901,
+    "categoria": "Sector público",
+    "nombre": "U. A .E. Agencia Nacional de Contratacion Publica - Colombia Compra Eficiente.",
+    "telefono": "+57-60-1-795-6600",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 26 20, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6593489,
+    "lng": -74.106088,
+    "categoria": "Sector público",
+    "nombre": "Auditoria General de la Republica",
+    "telefono": "+57-60-1-318-6800",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 69 76 EDIFICIO ELEMENTO, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.661493000000001,
+    "lng": -74.1099565,
+    "categoria": "Sector público",
+    "nombre": "Unidad de Planeacion Minero Energetica",
+    "telefono": "+57-60-1-222-0601",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 69 D 91, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.599075,
+    "lng": -74.073577,
+    "categoria": "Sector público",
+    "nombre": "Departamento Administrativo de la Funcion Publica",
+    "telefono": "+57-60-1-739-5656",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 6 12 62 BOGOTA D C, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.677755900000001,
+    "lng": -74.05389699999999,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Agencia Nacional del Espectro",
+    "telefono": "+57-60-1-600-0030",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 93 17 45, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Instituto Colombiano de Antropologia e Historia",
+    "telefono": "+57-60-1-444-0544",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 12 2 38, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Archivo General de la Nacion",
+    "telefono": "+57-60-1-328-2888",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 6 6 91, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.641793,
+    "lng": -74.0920555,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Instituto Nacional de Metrologia",
+    "telefono": "+57-60-1-254-2222",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CARRERA 50 26 55, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5975254,
+    "lng": -74.0704214,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital de Patrimonio Cultural",
+    "telefono": "+57-60-1-355-0800",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 12B 2 58, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.66189,
+    "lng": -74.053994,
+    "categoria": "Sector público",
+    "nombre": "Consejo Profesional Nacional de Ingenieria",
+    "telefono": "+57-60-1-322-0102",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 78 9 57, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6829244,
+    "lng": -74.1202967,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Contaduria General de la Nacion",
+    "telefono": "+57-60-1-492-6400",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 69 76, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Instituto Amazonico de Investigaciones Cientificas",
+    "telefono": "+57-60-1-444-2060",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA VASQUEZ COBO ENTRE CALLES 15 Y 16, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5959334,
+    "lng": -74.0737375,
+    "categoria": "Sector público",
+    "nombre": "Instituto Caro y Cuervo",
+    "telefono": "+57-60-1-342-2121",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 10 4 69, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6810665,
+    "lng": -74.0491269,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Junta Central de Contadores",
+    "telefono": "+57-60-1-644-4450",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 16 97 46, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.171182,
+    "lng": -75.610855,
+    "categoria": "Sector público",
+    "nombre": "Fabrica de Licores y alcoholes de Antioquia",
+    "telefono": "+57-60-4-383-8048",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 50 12 SUR 149 ITAGUI ANTIOQUIA, ITAGUI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2562962,
+    "lng": -75.5937415,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Deportes y Recreacion",
+    "telefono": "+57-60-4-369-9000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 47 D 75 276, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.249956699999999,
+    "lng": -75.5831798,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Autonoma Regional del Centro de Antioquia",
+    "telefono": "+57-60-4-493-8888",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 65 44 A 32, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2649637,
+    "lng": -75.5668122,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Ruta N Medellin",
+    "telefono": "+57-60-4-516-7770",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "COMPLEJO RUTA CALLE 67 52 20, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2193444,
+    "lng": -75.5705629,
+    "categoria": "Sector público",
+    "nombre": "Asociacion Canal Local de Television de Medellin",
+    "telefono": "+57-60-4-448-9590",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 43F 18 60, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.245032999999999,
+    "lng": -75.57483789999999,
+    "categoria": "Sector público",
+    "nombre": "Agencia Para La Gestion del Paisaje, Patrimonio y Alianzas Publico Privadas",
+    "telefono": "+57-60-4-448-1740",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 55 42 180 L 203, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.4056147,
+    "lng": -76.5389208,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Autonoma Regional del Valle del Cauca",
+    "telefono": "+57-60-2-620-6600",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 56 11 36, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4528555,
+    "lng": -76.5501553,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental de Bellas Artes",
+    "telefono": "+57-60-2-620-3333",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA 2 7N 28 BARRIO CENTINARIO, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 10.996357,
+    "lng": -74.79559499999999,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Autonoma Regional del Atlantico",
+    "telefono": "+57-60-5-349-2482",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 66 54 43, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 7.1189329,
+    "lng": -73.1192398,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Autonoma Regional de Defensa de la Meseta de Bucaramanga",
+    "telefono": "+57-60-7-634-6100",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 23 37 63, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 5.975581600000001,
+    "lng": -74.5923273,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Boyaca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUERTO BOYACA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 4.9086113,
+    "lng": -73.9414489,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sopo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SOPO, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4195763,
+    "lng": -76.24053119999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Pradera",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PRADERA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 4.9187217,
+    "lng": -74.02255699999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cajica",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CAJICA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.4687872,
+    "lng": -75.3178952,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Barbosa - Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BARBOSA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.491196,
+    "lng": -74.2593771,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sibate",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SIBATE, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5672821,
+    "lng": -74.5346103,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Anapoima",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ANAPOIMA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.117721,
+    "lng": -74.479244,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Salgar",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", QUEBRADANEGRA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.8035064,
+    "lng": -75.0844757,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sonson",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SONSON, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.010684899999999,
+    "lng": -72.750495,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tauramena",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TAURAMENA, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 4.0874245,
+    "lng": -72.96041439999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Lopez",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUERTO LOPEZ, META, COLOMBIA"
+  },
+  {
+    "lat": 5.695633,
+    "lng": -76.649812,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Quibdo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", QUIBDO, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 5.848836700000001,
+    "lng": -76.0391909,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Ciudad Bolivar",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CIUDAD BOLIVAR, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.3059954,
+    "lng": -73.8148875,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Ubate",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", VILLA DE SAN DIEGO DE UBATE, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 3.2719904,
+    "lng": -73.087749,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De La Tebaida - Quindio",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LA TEBAIDA, META, COLOMBIA"
+  },
+  {
+    "lat": 5.77977,
+    "lng": -73.11472499999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Paipa",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PAIPA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 2.5677606,
+    "lng": -72.6396535,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Jose Del Guaviare",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN JOSE DEL GUAVIARE, GUAVIARE, COLOMBIA"
+  },
+  {
+    "lat": 6.0914795,
+    "lng": -75.635271,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Caldas",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CALDAS, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.554824,
+    "lng": -73.13412,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Gil",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN GIL, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 6.060955,
+    "lng": -75.50258199999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Retiro",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", RETIRO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.7335375,
+    "lng": -74.2624115,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Madrid",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MADRID, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 13.3561196,
+    "lng": -81.37843509999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Providencia Y Santa Catalina Islas San Andres",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PROVIDENCIA, ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA, COLOMBIA"
+  },
+  {
+    "lat": 6.956106999999999,
+    "lng": -71.87259499999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Saravena",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SARAVENA, ARAUCA, COLOMBIA"
+  },
+  {
+    "lat": 7.6049669,
+    "lng": -74.8090098,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Bagre",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL BAGRE, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.263082,
+    "lng": -73.562567,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Restrepo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", RESTREPO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.3488323,
+    "lng": -73.9012766,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cogua",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CARMEN DE CARUPA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 3.3231646,
+    "lng": -76.2326981,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Florida",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", FLORIDA, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 5.0678088,
+    "lng": -74.5953205,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Guaduas",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GUADUAS, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.442825699999999,
+    "lng": -75.72776689999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Jeronimo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN JERONIMO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.82848,
+    "lng": -73.68875,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Castilla La Nueva",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CASTILLA LA NUEVA, META, COLOMBIA"
+  },
+  {
+    "lat": 5.558452,
+    "lng": -73.282611,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cienaga De Oro",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CHIVATA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.7711248,
+    "lng": -72.9395601,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Nobsa",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NOBSA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 4.4037278,
+    "lng": -74.3869998,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Silvania",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SILVANIA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.1076089,
+    "lng": -72.5678041,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Aguazul",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", AGUAZUL, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 5.066968999999999,
+    "lng": -73.880696,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Nemocon",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NEMOCON, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.632662499999999,
+    "lng": -76.0663467,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Amaga",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ABRIAQUI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2476598,
+    "lng": -75.565816,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Mani",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MANI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.62216,
+    "lng": -74.6165,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Monterrey",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MONTERREY, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.117448599999999,
+    "lng": -73.6771662,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Choconta",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CHOCONTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.126417,
+    "lng": -75.2595731,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Santuario",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL SANTUARIO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.079743499999999,
+    "lng": -74.7004374,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Segovia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SEGOVIA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.4805728,
+    "lng": -75.6440842,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Circasia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CALARCA, QUINDÍO, COLOMBIA"
+  },
+  {
+    "lat": 5.242598,
+    "lng": -75.781831,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Anserma Caldas",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ANSERMA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 6.501533999999999,
+    "lng": -75.743398,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sopetran",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SOPETRAN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.7779989,
+    "lng": -74.1357407,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cota",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", COTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 1.6020044,
+    "lng": -72.8988069,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Calamar- Guaviare",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CALAMAR, GUAVIARE, COLOMBIA"
+  },
+  {
+    "lat": 6.4895388,
+    "lng": -74.4047587,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Berrio",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUERTO BERRIO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.617891500000001,
+    "lng": -76.5950555,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chigorodo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CHIGORODO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.503838,
+    "lng": -73.85197099999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Simijaca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SIMIJACA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.103929,
+    "lng": -73.798632,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Suesca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SUESCA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 3.2719904,
+    "lng": -73.087749,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De La Plata",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LA PLATA, META, COLOMBIA"
+  },
+  {
+    "lat": 5.1664404,
+    "lng": -75.5205472,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Neira",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NEIRA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.8810539,
+    "lng": -71.8926718,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Paz De Ariporo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PAZ DE ARIPORO, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 2.331899,
+    "lng": -72.62812699999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Retorno",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL RETORNO, GUAVIARE, COLOMBIA"
+  },
+  {
+    "lat": 5.3667212,
+    "lng": -73.52096519999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Ventaquemada",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", VENTAQUEMADA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 7.102626,
+    "lng": -77.762046,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Jurado",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", JURADO, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 3.2700915,
+    "lng": -73.3770557,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Lleras",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUERTO LLERAS, META, COLOMBIA"
+  },
+  {
+    "lat": 4.901796399999999,
+    "lng": -75.88423449999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De La Virginia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LA VIRGINIA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 5.30648,
+    "lng": -76.64542999999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Union Panamericana",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", UNION PANAMERICANA, CHOCO, COLOMBIA"
+  },
+  {
+    "lat": 7.1129229,
+    "lng": -75.55109980000002,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Caceres",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BRICEÑO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.130466,
+    "lng": -74.1579775,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Pacho",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PACHO, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.0445905,
+    "lng": -73.7967966,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sesquile",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SESQUILE, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 7.583190999999999,
+    "lng": -75.39996599999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Taraza",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TARAZA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.3170865,
+    "lng": -74.9116514,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Victoria",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", VICTORIA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 6.285814999999999,
+    "lng": -75.33422,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Vicente - Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN VICENTE, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.4077975,
+    "lng": -71.6613672,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Trinidad",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TRINIDAD, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 4.9740951,
+    "lng": -75.6789905,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chinchina",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CHINCHINA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.0678088,
+    "lng": -74.5953205,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Guatavita",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GUADUAS, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.402585,
+    "lng": -74.025384,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Villeta",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", UNE, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.454511,
+    "lng": -73.362003,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Marsella",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MARSELLA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.638097,
+    "lng": -72.195527,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Nunchia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NUNCHIA, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 5.2537221,
+    "lng": -75.15416820000002,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Manzanares",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MANZANARES, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 5.658513999999999,
+    "lng": -74.181142,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Otanche",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", OTANCHE, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 7.011153699999999,
+    "lng": -75.70225669999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Toledo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TOLEDO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 7.882760999999999,
+    "lng": -76.624692,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Anori",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", APARTADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.271262,
+    "lng": -73.48805200000001,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cumaral",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CUMARAL, META, COLOMBIA"
+  },
+  {
+    "lat": 5.006385,
+    "lng": -73.471423,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Guateque",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GUATEQUE, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 4.3123762,
+    "lng": -72.0826822,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Gaitan",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUERTO GAITAN, META, COLOMBIA"
+  },
+  {
+    "lat": 5.5380856,
+    "lng": -76.7798172,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Rio Quito",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", RIO QUITO, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 5.608806,
+    "lng": -75.45777749999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Aguadas Caldas",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", AGUADAS, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.106663,
+    "lng": -75.940865,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Apia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", APIA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 5.511608,
+    "lng": -73.244834,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Siachoque",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SIACHOQUE, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.4599645,
+    "lng": -74.3381776,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Yacopi",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", YACOPI, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 2.2136755,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Rio De Oro",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LA MACARENA, META, COLOMBIA"
+  },
+  {
+    "lat": 3.372678,
+    "lng": -73.8744229,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Juan De Arama",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN JUAN DE ARAMA, META, COLOMBIA"
+  },
+  {
+    "lat": 6.4714987,
+    "lng": -75.1644735,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Juan De Uraba",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SANTO DOMINGO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 2.043924000000001,
+    "lng": -72.331113,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Murindo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MURINDO, GUAVIARE, COLOMBIA"
+  },
+  {
+    "lat": 5.576269,
+    "lng": -74.889557,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Norcasia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NORCASIA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 4.7779989,
+    "lng": -74.1357407,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Fomeque",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", COTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.9497479,
+    "lng": -75.958017,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Belen De Umbria",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BALBOA, RISARALDA, COLOMBIA"
+  },
+  {
+    "lat": 5.752134,
+    "lng": -73.54938,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cubara",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GACHANTIVA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.157448899999999,
+    "lng": -76.6880899,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Istmina",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ISTMINA, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 6.688099999999999,
+    "lng": -73.70667999999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Miraflores - Guaviare",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MIRAFLORES, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 5.963336,
+    "lng": -75.963942,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Salgar",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SALGAR, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.997129999999999,
+    "lng": -72.692665,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Socha",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SOCHA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.29826,
+    "lng": -75.2479061,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Santa Rosa De Viterbo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SANTA ROSA DE VITERBO, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 7.011153699999999,
+    "lng": -75.70225669999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Yarumal",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TOLEDO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.089545999999999,
+    "lng": -76.652079,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Condoto",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CONDOTO, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 6.6982412,
+    "lng": -73.51117339999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Carmen De Chucuri",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL CARMEN DE CHUCURI, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 5.402354,
+    "lng": -75.486468,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Salamina - Caldas",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SALAMINA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 7.435361599999999,
+    "lng": -77.1112624,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Riosucio - Choco",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", RIOSUCIO, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 1.5529173,
+    "lng": -77.1202812,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Pedro De Cartago",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN PEDRO DE CARTAGO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 4.5675132,
+    "lng": -74.9529021,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Alvarado",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ALVARADO, TOLIMA, COLOMBIA"
+  },
+  {
+    "lat": 7.021420099999999,
+    "lng": -75.9088137,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Peque",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PEQUE, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 2.6227918,
+    "lng": -72.7598422,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Puerto Concordia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUERTO CONCORDIA, META, COLOMBIA"
+  },
+  {
+    "lat": 4.8191575,
+    "lng": -73.1691323,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Luis De Gaceno",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN LUIS DE GACENO, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.588654099999999,
+    "lng": -76.896277,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Vigia Del Fuerte",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", VIGIA DEL FUERTE, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.7023749,
+    "lng": -74.3235539,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Bojaca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOJACA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.082453,
+    "lng": -73.36504599999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Covarachia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GARAGOA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.794366999999999,
+    "lng": -71.7715489,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Fortul",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", FORTUL, ARAUCA, COLOMBIA"
+  },
+  {
+    "lat": 5.7914344,
+    "lng": -75.78472579999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Jerico - Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", JERICO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 1.7693536,
+    "lng": -77.4931403,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Policarpa",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", POLICARPA, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 5.7936476,
+    "lng": -75.8383759,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Pueblorrico - Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PUEBLORRICO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.077311,
+    "lng": -73.421476,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tenza",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TENZA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 4.569821399999999,
+    "lng": -72.96530369999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Barranca De Upia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BARRANCA DE UPIA, META, COLOMBIA"
+  },
+  {
+    "lat": 6.5015738,
+    "lng": -75.3761952,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Dabeiba",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", DON MATIAS, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.9564005,
+    "lng": -76.6088242,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Novita",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NOVITA, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 4.615942,
+    "lng": -74.3519352,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Antonio Del Tequendama - Cundinamarca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN ANTONIO DEL TEQUENDAMA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.664999,
+    "lng": -75.714701,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tamesis",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TAMESIS, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.063323800000001,
+    "lng": -75.793768,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Titiribi",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TITIRIBI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.538376,
+    "lng": -75.08706699999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cisneros",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CISNEROS, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 2.892506,
+    "lng": -72.13317500000001,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Mapiripan",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MAPIRIPAN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.4502038,
+    "lng": -75.6440842,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Supia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SUPIA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 3.2719904,
+    "lng": -73.087749,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Liborina",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LIBORINA, META, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Maceo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MACEO, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.300064,
+    "lng": -75.051548,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Marquetalia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MARQUETALIA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.284591799999999,
+    "lng": -75.2606524,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Marulanda",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MARULANDA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 5.527995,
+    "lng": -75.459881,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Pacora",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PACORA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 1.289151,
+    "lng": -77.35794000000001,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Tarra",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL TARRA, NARINO, COLOMBIA"
+  },
+  {
+    "lat": 6.7192948,
+    "lng": -75.9080161,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Buritica",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BURITICA, ANTIOQUIA , COLOMBIA"
+  },
+  {
+    "lat": 10.2438359,
+    "lng": -74.10050439999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Algarrobo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ALGARROBO, MAGDALENA, COLOMBIA"
+  },
+  {
+    "lat": 1.742897,
+    "lng": -77.33513239999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cumbitara",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL ROSARIO, NARIÑO, COLOMBIA"
+  },
+  {
+    "lat": 5.22138,
+    "lng": -73.45687,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Umbita",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", UMBITA, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 6.899406,
+    "lng": -76.17451489999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Uramita",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", URAMITA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.548956,
+    "lng": -75.64370699999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Caramanta",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CARAMANTA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.2719904,
+    "lng": -73.087749,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Nariño - Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NARIÑO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.726562899999999,
+    "lng": -71.99394099999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Pore",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PORE, CASANARE, COLOMBIA"
+  },
+  {
+    "lat": 6.3032315,
+    "lng": -75.8538878,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Angostura",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ANZA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.4056369,
+    "lng": -73.946686,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chaguani",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CAQUEZA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 7.755354,
+    "lng": -76.6554309,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Concepcion Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CAREPA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.9723166,
+    "lng": -73.31971209999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Macanal",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MACANAL, ARAUCA, COLOMBIA"
+  },
+  {
+    "lat": 5.413047,
+    "lng": -74.99146390000001,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Samana",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAMANA, CALDAS, COLOMBIA"
+  },
+  {
+    "lat": 6.343965499999999,
+    "lng": -72.6860696,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Soata",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SOATA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.7192948,
+    "lng": -75.9080161,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Caicedo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BURITICA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.031048,
+    "lng": -73.103869,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Campohermoso",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CAMPOHERMOSO, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.1000249,
+    "lng": -73.052166,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Paez - Boyaca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", PAEZ, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 3.0673499,
+    "lng": -75.1381059,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tello",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TELLO, HUILA, COLOMBIA"
+  },
+  {
+    "lat": 5.864924999999999,
+    "lng": -75.82240300000001,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tarso",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TARSO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De Sumapaz",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 4.710988599999999,
+    "lng": -74.072092,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia Local De La Candelaria",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BOGOTA, BOGOTA, COLOMBIA"
+  },
+  {
+    "lat": 6.1563272,
+    "lng": -75.7876261,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Armenia  Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ARMENIA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.849736,
+    "lng": -75.684091,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Jose De La Montaña - Antioquia",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN JOSE DE LA MONTAÑA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 2.544621,
+    "lng": -75.8089408,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Nataga",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", NATAGA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.041520999999999,
+    "lng": -72.636498,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Socota",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SOCOTA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 8.510109,
+    "lng": -77.27897999999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Bahia Solano",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ACANDI, CHOCÓ, COLOMBIA"
+  },
+  {
+    "lat": 5.554371,
+    "lng": -73.8651958,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Caldas Boyaca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CALDAS, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.802567,
+    "lng": -72.80632,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Corrales",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", GAMEZA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.562762999999999,
+    "lng": -72.57762799999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Labranzagrande",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", LABRANZAGRANDE, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 8.635561299999999,
+    "lng": -76.4100267,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Anza",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", ARBOLETES, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 5.911129,
+    "lng": -72.8090726,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Briceã‘O  Boyaca",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", BETEITIVA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.548956,
+    "lng": -75.64370699999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Cocorna",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CARAMANTA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.5651277,
+    "lng": -73.7957024,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De El Castillo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", EL CASTILLO, META, COLOMBIA"
+  },
+  {
+    "lat": 6.402012999999999,
+    "lng": -72.5546339,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Mateo",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN MATEO, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.566838,
+    "lng": -73.45009499999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Sora",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SORA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.0183667,
+    "lng": -73.5411771,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Saboya",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN JOSE DE PARE, BOYACA, COLOMBIA"
+  },
+  {
+    "lat": 5.3456186,
+    "lng": -74.49184439999999,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Caparrapi",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CAPARRAPI, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.909396,
+    "lng": -72.78081,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Tasco",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", TASCO, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 5.0089271,
+    "lng": -73.5413846,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De La Peña",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", MANTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4605363,
+    "lng": -73.6194148,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Recetor",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", FUENTE DE ORO, META, COLOMBIA"
+  },
+  {
+    "lat": 5.95661,
+    "lng": -72.9489509,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De Chinavita",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", CERINZA, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.0183667,
+    "lng": -73.5411771,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Jose De Pare",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN JOSE DE PARE, BOYACÁ, COLOMBIA"
+  },
+  {
+    "lat": 6.1274259,
+    "lng": -73.509401,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia De San Benito",
+    "telefono": "",
+    "tipo": "ALCALDÍA",
+    "direccion": ", SAN BENITO, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 4.6563655,
+    "lng": -74.0578986,
+    "categoria": "Sector público",
+    "nombre": "Fondo Nacional de Gestión de Riesgo de Desastres",
+    "telefono": "+57-315-548-5880",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 72 10 03, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.614486299999999,
+    "lng": -74.0706581,
+    "categoria": "Sector público",
+    "nombre": "Caja de Retiro de las Fuerzas Militares",
+    "telefono": "+57-60-1-647-7777",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 13 27 00 EDIFICIO BOCHICA 3, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6409937,
+    "lng": -74.0970135,
+    "categoria": "Sector público",
+    "nombre": "Departamento de Cundinamarca",
+    "telefono": "+57-60-1-749-0000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6459543,
+    "lng": -74.0997354,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Agencia Nacional de Hidrocarburos",
+    "telefono": "+57-60-1-593-1717",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AC 26 59 65 P 2 ED CAMARA COLOMBIANA DE INFRAESTRUCTURA, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6589355,
+    "lng": -74.10565179999999,
+    "categoria": "Sector público",
+    "nombre": "Contraloria General de la Republica",
+    "telefono": "+57-60-1-518-7000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 69 44 35, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.594090899999999,
+    "lng": -74.0774357,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. de la Direccion de Impuestos y Aduanas Nacionales",
+    "telefono": "+57-60-1-607-4076",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 6 C 54, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5997733,
+    "lng": -74.0745402,
+    "categoria": "Sector público",
+    "nombre": "Fondo Unico de Tecnologias de la Informacion y Las Comunicaciones",
+    "telefono": "+57-60-1-344-2281",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "EDIFICIO MURILLO TORO, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Fondo Nacional de Vivienda",
+    "telefono": "+57-60-1-332-3434",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 18 7 59, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6829244,
+    "lng": -74.1202967,
+    "categoria": "Sector público",
+    "nombre": "Unidad de Servicios Penitenciarios y Carcelarios",
+    "telefono": "+57-60-1-743-0274",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 69 76 EDIFICIO ELEMENTO PISOS 12 13 Y 14, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6420954,
+    "lng": -74.0640335,
+    "categoria": "Sector público",
+    "nombre": "Defensoria del Pueblo",
+    "telefono": "+57-60-1-314-7300",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 55 10 32, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.646901199999999,
+    "lng": -74.0957324,
+    "categoria": "Sector público",
+    "nombre": "Agencia Nacional de Tierras",
+    "telefono": "+57-60-1-518-5858",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 43 57 41, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Autonoma Regional de Cundinamarca",
+    "telefono": "+57-60-1-580-1111",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 24 62 49, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.612987,
+    "lng": -74.071686,
+    "categoria": "Sector público",
+    "nombre": "Departamento Nacional de Planeacion",
+    "telefono": "+57-60-1-381-5000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 13 19, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.60686,
+    "lng": -74.083728,
+    "categoria": "Sector público",
+    "nombre": "Fondo de Pasivo Social de Ferrocarriles Nacionales de Colombia",
+    "telefono": "+57-60-1-381-7171",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 13 18 24, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6389841,
+    "lng": -74.07996589999999,
+    "categoria": "Sector público",
+    "nombre": "Instituto Geografico Agustin Codazzi",
+    "telefono": "+57-60-1-369-4047",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 30 48 51, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Departamento Administrativo de la Presidencia de la Republica",
+    "telefono": "+57-60-1-242-7108",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 7 6 54, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6409937,
+    "lng": -74.0970135,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Infraestructura y Concesiones de Cundinamarca",
+    "telefono": "+57-60-1-749-1622",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6458943,
+    "lng": -74.09989089999999,
+    "categoria": "Sector público",
+    "nombre": "Agencia Nacional de Mineria",
+    "telefono": "+57-60-1-220-1999",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 59 51 TR 4 P 8, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6468839,
+    "lng": -74.09725209999999,
+    "categoria": "Sector público",
+    "nombre": "Departamento Administrativo Nacional de Estadistica",
+    "telefono": "+57-60-1-597-8300",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 59 26 70 INT 1 CAN, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6636942,
+    "lng": -74.09674729999999,
+    "categoria": "Sector público",
+    "nombre": "Ministerio del Deporte",
+    "telefono": "+57-60-1-437-7030",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA 68 55 65, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6157134,
+    "lng": -74.06937479999999,
+    "categoria": "Sector público",
+    "nombre": "Agencia Distrital para la Educacion Superior, la Ciencia y la Tecnologia",
+    "telefono": "+57-60-1-731-2439",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 10 28 49 TORRA A, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6700105,
+    "lng": -74.05959969999999,
+    "categoria": "Sector público",
+    "nombre": "Instituto Colombiano Agropecuario",
+    "telefono": "+57-60-1-794-4492",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CARRERA 20 83 20 EDIFICIO NEO POINT 83, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.719915299999999,
+    "lng": -74.0491984,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. de Gestion de Restitucion de Tierras Despojadas",
+    "telefono": "+57-60-1-377-0300",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 13A 29 24, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5981491,
+    "lng": -74.0826253,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional de Medicina Legal y Ciencias Forenses",
+    "telefono": "+57-60-1-406-9944",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 7 A 12 A 51, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Agencia Para La Reincorporacion y La Normalizacion",
+    "telefono": "+57-60-1-443-0020",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 32 44 EDIFICIO SAN MARTIN LOCALES 104 Y 105, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6254368,
+    "lng": -74.0670602,
+    "categoria": "Sector público",
+    "nombre": "Fondo Nacional Ambiental",
+    "telefono": "+57-60-1-332-3400",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 37 8 40, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6458943,
+    "lng": -74.09989089999999,
+    "categoria": "Sector público",
+    "nombre": "U.A.E Migracion Colombia",
+    "telefono": "+57-60-1-605-5454",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 59 51 OF 401, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6116944,
+    "lng": -74.07134239999999,
+    "categoria": "Sector público",
+    "nombre": "Patrimonio Autonomo de Pensiones del Fondo de Prevision Social del Congreso de la Republica - Vejez",
+    "telefono": "+57-60-1-341-5566",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 10 24 55, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. de Rehabilitacion y Mantenimiento Vial",
+    "telefono": "+57-60-1-377-9555",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 69 76 ED ELEMENTO, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Consejo Nacional Electoral",
+    "telefono": "",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 32 42 CC SAN MARTIN, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6562151,
+    "lng": -74.1108984,
+    "categoria": "Sector público",
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "telefono": "+57-60-1-739-9080",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA ESPERANZA CALLE 24 62 49, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional de Vigilancia de Medicamentos y Alimentos",
+    "telefono": "+57-60-1-242-5000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 10 64 60, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6829244,
+    "lng": -74.1202967,
+    "categoria": "Sector público",
+    "nombre": "Entidad Administradora del Recursos del Sistema General de Seguridad Social en Salud - Unidad Gestion General",
+    "telefono": "+57-60-1-432-2760",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 69 76, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6398619,
+    "lng": -74.094352,
+    "categoria": "Sector público",
+    "nombre": "Fondo Rotatorio de la Registraduria Nacional del Estado Civil",
+    "telefono": "+57-60-1-220-0888",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 51 50, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6147203,
+    "lng": -74.0716367,
+    "categoria": "Sector público",
+    "nombre": "Departamento Administrativo - Direccion Nacional de Inteligencia",
+    "telefono": "+57-60-1-432-0000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 A 13 97 EDIF BULEVAR TEQUENDAMA, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Servicio Geologico Colombiano",
+    "telefono": "+57-60-1-220-0292",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "DIAGONAL 53 34 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6230579,
+    "lng": -74.06861549999999,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Autoridad Nacional de Licencias Ambientales",
+    "telefono": "+57-60-1-254-0111",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 13A 34 72, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "U.A.E de la Justicia Penal Militar y Policial",
+    "telefono": "+57-60-1-516-9563",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 46 20 C 1 CANTON MILITAR OCCIDENTAL CORONEL FRANCISCO JOSE DE CALDAS PALACIO DE LA JUSTIC, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6835152,
+    "lng": -74.120417,
+    "categoria": "Sector público",
+    "nombre": "Unidad Nacional Para La Gestion del Riesgo de Desastres",
+    "telefono": "+57-60-1-375-1078",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 92 32, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6841678,
+    "lng": -74.1285936,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Hidrologia, Meteorologia y Estudios Ambientales",
+    "telefono": "+57-60-1-352-7160",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 25D 96B 70, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6420042,
+    "lng": -74.0937363,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional de Salud",
+    "telefono": "+57-60-1-220-7700",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 51 20, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Agencia de Renovacion del Territorio",
+    "telefono": "+57-60-1-422-1030",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 32 24 PISOS 37 40, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6254551,
+    "lng": -74.0812005,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. de Catastro Distrital",
+    "telefono": "+57-60-1-234-7600",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 30 25 90, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.653518,
+    "lng": -74.07483400000001,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital Para La Proteccion de la Ninez y de la Juventud",
+    "telefono": "+57-60-1-310-0411, +57-60-1-310-2203, +57-60-1-310-1730",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 27A 63B 07, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6565454,
+    "lng": -74.0570857,
+    "categoria": "Sector público",
+    "nombre": "Patrimonio Autonomo Fondo Empresarial",
+    "telefono": "+57-60-1-311-3711",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 9 72 21, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6116944,
+    "lng": -74.07134239999999,
+    "categoria": "Sector público",
+    "nombre": "Fonprecon - Sobrevivientes",
+    "telefono": "+57-60-1-341-5566",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 10 24 55, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.681274999999999,
+    "lng": -74.04259600000002,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Planificacion y Promocion de Soluciones Energeticas",
+    "telefono": "+57-60-1-621-0433",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 99 9 A 54, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6275618,
+    "lng": -74.06934559999999,
+    "categoria": "Sector público",
+    "nombre": "Orquesta Filarmonica de Bogota",
+    "telefono": "+57-60-1-288-3466",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 39 BIS 14 57, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6409937,
+    "lng": -74.0970135,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental Para La Recreacion y El Deporte de Cundinamarca",
+    "telefono": "+57-60-1-749-1205",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.607437099999999,
+    "lng": -74.0742642,
+    "categoria": "Sector público",
+    "nombre": "Instituto Para La Economia Social",
+    "telefono": "+57-60-1-297-6030, +57-60-1-282-2013",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 19 10 44, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6159946,
+    "lng": -74.0703482,
+    "categoria": "Sector público",
+    "nombre": "Unidad de Planificacion de Tierras Rurales, Adecuacion de Tierras y Usos Agropecuarios",
+    "telefono": "+57-60-1-245-7307",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 28 NUMERO 13 22, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6859639,
+    "lng": -74.1312939,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Fondo Nacional de Estupefacientes",
+    "telefono": "+57-60-1-333-1088",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 25D 100 12, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6304547,
+    "lng": -74.10430939999999,
+    "categoria": "Sector público",
+    "nombre": "Club Militar de Oficiales",
+    "telefono": "+57-60-1-447-3240, +57-60-1-261-1593",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 50 15 80, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6409937,
+    "lng": -74.0970135,
+    "categoria": "Sector público",
+    "nombre": "Beneficencia de Cundinamarca",
+    "telefono": "+57-60-1-749-1114",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6684395,
+    "lng": -74.09735599999999,
+    "categoria": "Sector público",
+    "nombre": "Jardin Botanico de Bogota Jose Celestino Mutis",
+    "telefono": "+57-60-1-437-7060",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 63 68 95, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6764369,
+    "lng": -74.0470067,
+    "categoria": "Sector público",
+    "nombre": "Administradora del Monopolio Rentistico de los Juegos de Suerte y Azar.",
+    "telefono": "+57-60-1-747-7586",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 11 93 A 85, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6409937,
+    "lng": -74.0970135,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental de Accion Comunal de Cundinamarca",
+    "telefono": "+57-60-1-749-1001",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.641471900000001,
+    "lng": -74.0952765,
+    "categoria": "Sector público",
+    "nombre": "Agencia de Comercializacion e Innovacion para el Desarrollo de Cundinamarca ACIDC",
+    "telefono": "+57-60-1-248-2940",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 33, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. de Organizaciones Solidarias",
+    "telefono": "+57-60-1-327-5252",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 10 15 22, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Unidad de Informacion y Analisis Financiero",
+    "telefono": "+57-60-1-288-5222",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 31 10 P 6, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6013664,
+    "lng": -74.0724292,
+    "categoria": "Sector público",
+    "nombre": "Fondo de Prestaciones Economicas, Cesantias y Pensiones",
+    "telefono": "+57-60-1-307-6200",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 6 14 98, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.681576,
+    "lng": -74.145478,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital de la Participacion y Accion Comunal",
+    "telefono": "+57-60-1-241-7900",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 22 68C 51, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6458201,
+    "lng": -74.10270489999999,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Unidad de Planeacion de Infraestructura de Transporte",
+    "telefono": "+57-60-1-324-0800",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 24 60 50, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.617351200000001,
+    "lng": -74.06823399999999,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. del Servicio Publico de Empleo",
+    "telefono": "+57-60-1-576-0009",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 7 31 10, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.5724403,
+    "lng": -74.0980405,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital de Proteccion y Bienestar Animal",
+    "telefono": "+57-60-1-647-7117",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 10 26 51, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6058679,
+    "lng": -74.0655187,
+    "categoria": "Sector público",
+    "nombre": "Instituto Distrital de Turismo",
+    "telefono": "+57-60-1-217-0711",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "K 10 28 49 EDIFICIO INTERNACIONAL T A P 22 Y 23, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6409937,
+    "lng": -74.0970135,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental de Cultura y Turismo de Cundinamarca",
+    "telefono": "+57-60-1-749-1196",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 51 53, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6581024,
+    "lng": -74.107446,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. Agencia del Inspector General de Tributos, Rentas y Contribuciones Parafiscales",
+    "telefono": "+57-60-1-390-7000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 26 69 63, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.686955,
+    "lng": -74.04306179999999,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Casas Fiscales del Ejercito",
+    "telefono": "+57-60-1-215-2960, +57-60-1-215-4074, +57-60-1-214-7806, +57-60-1-378-9650",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 11 B 104 48, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 5.026002999999999,
+    "lng": -74.0300122,
+    "categoria": "Sector público",
+    "nombre": "Fundacion Gilberto Alzate Avendano",
+    "telefono": "+57-60-1-432-0410",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 3 10 27, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6309795,
+    "lng": -74.1114715,
+    "categoria": "Sector público",
+    "nombre": "E.P.S. Convida",
+    "telefono": "+57-60-1-426-9500",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 58 9 97, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6280858,
+    "lng": -74.07187859999999,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Social de Cundinamarca",
+    "telefono": "+57-60-1-339-0150",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 39 A 18 05 BARRIO LA SOLEDAD, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6865186,
+    "lng": -74.1145324,
+    "categoria": "Sector público",
+    "nombre": "Instituto Nacional Para Sordos",
+    "telefono": "+57-60-1-439-1221",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 89A 64C 30 ALAMOS ZONA INDUSTRIAL BOGOTA D C, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.656240299999999,
+    "lng": -74.11083620000001,
+    "categoria": "Sector público",
+    "nombre": "U.A.E. para la Gestion Catastral de Cundinamarca",
+    "telefono": "+57-322-508-9900",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 24A 43B 19, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.665109999999999,
+    "lng": -74.05312239999999,
+    "categoria": "Sector público",
+    "nombre": "Region Administrativa y de Planeacion Especial - Region Central",
+    "telefono": "+57-60-1-443-4170",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 11 82 01, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.6829244,
+    "lng": -74.1202967,
+    "categoria": "Sector público",
+    "nombre": "Instituto Para La Investigacion Educativa y El Desarrollo Pedagogico",
+    "telefono": "+57-314-488-9973",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA CALLE 26 69 76 OF 1001, BOGOTA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 4.583562199999999,
+    "lng": -74.2177533,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal Para La Recreacion y El Deporte de Soacha",
+    "telefono": "+57-60-1-722-6891, +57-60-1-726-0765, +57-60-1-575-2519",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 15 8 53, SOACHA, CUNDINAMARCA, COLOMBIA"
+  },
+  {
+    "lat": 6.244358099999999,
+    "lng": -75.5734167,
+    "categoria": "Sector público",
+    "nombre": "Departamento de Antioquia",
+    "telefono": "+57-60-4-383-8111, +57-60-4-383-8114, +57-60-4-383-8115, +57-60-4-383-8116",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 42 B 52 106, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2103038,
+    "lng": -75.5775211,
+    "categoria": "Sector público",
+    "nombre": "Politecnico Colombiano Jaime Isaza Cadavid",
+    "telefono": "+57-60-4-319-7945",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 48 7 151, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2541055,
+    "lng": -75.5896889,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental de Deportes de Antioquia",
+    "telefono": "+57-60-4-520-0890",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 48 70 180, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2730327,
+    "lng": -75.5874388,
+    "categoria": "Sector público",
+    "nombre": "Agencia de Educacion Postsecundaria de Medellin - Sapiencia",
+    "telefono": "+57-60-4-444-7947",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "TRANSVERSAL 73 65 296, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1684816,
+    "lng": -75.6099085,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Deportes, Recreacion y Aprovechamiento del Tiempo Libre Envigado",
+    "telefono": "+57-60-4-448-2098",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLEL 48 46 SUR 150, ENVIGADO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.248541899999999,
+    "lng": -75.5709725,
+    "categoria": "Sector público",
+    "nombre": "Instituto Social de Vivienda y Habitat de Medellin",
+    "telefono": "+57-60-4-430-4310",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 53 47 22 CENTRO COMERCIAL MEGACENTRO, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.235168,
+    "lng": -75.5712112,
+    "categoria": "Sector público",
+    "nombre": "Empresa de Vivienda de Antioquia - VIVA",
+    "telefono": "+57-60-4-444-8608",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 43A 34 95 CC ALMACENTRO, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2421552,
+    "lng": -75.5748697,
+    "categoria": "Sector público",
+    "nombre": "Asociacion de Municipios Antioquenos del Norte Medio",
+    "telefono": "+57-60-4-232-0321",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 55 40 A 20, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.255017700000001,
+    "lng": -75.57793339999999,
+    "categoria": "Sector público",
+    "nombre": "Biblioteca Publica Piloto de Medellin Para La America Latina",
+    "telefono": "+57-60-4-460-0590",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 64 50 32, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2421552,
+    "lng": -75.5748697,
+    "categoria": "Sector público",
+    "nombre": "Asociacion de Municipios del Occidente Antioqueno",
+    "telefono": "+57-60-4-262-4280",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 55 40A 20, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.333393999999999,
+    "lng": -75.54736679999999,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Deportes y Recreacion de Bello",
+    "telefono": "+57-60-4-604-7944",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA 42A 49 20, BELLO, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.2089724,
+    "lng": -75.58924139999999,
+    "categoria": "Sector público",
+    "nombre": "Fondo de Valorizacion del Municipio de Medellin",
+    "telefono": "+57-60-4-557-0246",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 65 A 13 157, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1547463,
+    "lng": -75.6437517,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal del Deporte y Recreacion de la Estrella",
+    "telefono": "+57-60-4-279-0046, +57-60-4-309-5268",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 60 83 A SUR 92, LA ESTRELLA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.149750800000001,
+    "lng": -75.6220203,
+    "categoria": "Sector público",
+    "nombre": "Instituto Para El Deporte y La Recreacion Indesa - Sabaneta",
+    "telefono": "+57-60-4-288-7275, +57-60-4-288-0126",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 76 E SUR 46 B 82, SABANETA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.244358099999999,
+    "lng": -75.5734167,
+    "categoria": "Sector público",
+    "nombre": "Empresas de Parques y Eventos de Antioquia- Activa",
+    "telefono": "+57-60-4-463-7472",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 42 B 52 106, MEDELLIN, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1501128,
+    "lng": -75.61628569999999,
+    "categoria": "Sector público",
+    "nombre": "Fondo de Vivienda de Interes Social - Sabaneta",
+    "telefono": "+57-60-4-444-9844",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 44 72 SUR 19, SABANETA, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 6.1710042,
+    "lng": -75.6085899,
+    "categoria": "Sector público",
+    "nombre": "Agencia de Desarrollo Local de Itagui",
+    "telefono": "+57-60-4-373-7676",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 49 50 A 20, ITAGUI, ANTIOQUIA, COLOMBIA"
+  },
+  {
+    "lat": 3.452273,
+    "lng": -76.522048,
+    "categoria": "Sector público",
+    "nombre": "Departamento del Valle del Cauca",
+    "telefono": "+57-60-2-860-0044",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLES 9 Y 10 CARRERA 8 Y 7 PALACIO DE SAN FRANCISCO, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4276172,
+    "lng": -76.5400641,
+    "categoria": "Sector público",
+    "nombre": "Instituto del Deporte, La Educacion Fisica y La Recreacion del Valle del Cauca",
+    "telefono": "+57-60-2-556-0112, +57-60-2-556-0553, +57-60-2-556-9242",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 36 5B3 65 BARRIO SAN FERNANDO, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4017474,
+    "lng": -76.53704789999999,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Departamental de Recreacion",
+    "telefono": "+57-60-2-514-4083, +57-60-2-514-4085, +57-60-2-514-4086",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 13 64 10, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4263612,
+    "lng": -76.5371226,
+    "categoria": "Sector público",
+    "nombre": "Escuela Nacional del Deporte",
+    "telefono": "+57-60-2-554-0404",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 9 34 01, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4874749,
+    "lng": -76.5117904,
+    "categoria": "Sector público",
+    "nombre": "Fondo de Estabilizacion de Precios Para Los Azucares Centrifugados, Las Melazas Derivadas de la Extraccion O del Refinado de Azucar y Los Jarabes de Azucar",
+    "telefono": "+57-60-2-664-7902",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 58 NORTE 3N 15, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4284443,
+    "lng": -76.5471298,
+    "categoria": "Sector público",
+    "nombre": "Unidad Ejecutora de Saneamiento del Valle del Cauca",
+    "telefono": "+57-60-2-558-0868",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 37A 4 88 BARRIO SANTA ISABEL, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.436262,
+    "lng": -76.5389782,
+    "categoria": "Sector público",
+    "nombre": "Instituto Para La Investigacion y La Preservacion del Patrimonio Cultural y Natural del Valle del Cauca",
+    "telefono": "+57-60-2-514-6848",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA ROOSEVELT 24 80 P 4 SAN FERNANDO, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.584251,
+    "lng": -76.498334,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Deporte, La Recreacion y El Aprovechamiento del Tiempo Libre - Yumbo",
+    "telefono": "+57-60-2-669-1207",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 4 17 00, YUMBO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.436035,
+    "lng": -76.53989399999999,
+    "categoria": "Sector público",
+    "nombre": "Biblioteca Departamental Jorge Garces Borrero",
+    "telefono": "+57-60-2-558-6400",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 5 24A 91, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.5841501,
+    "lng": -76.4960691,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Vivienda de Yumbo",
+    "telefono": "+57-60-2-641-0331, +57-60-2-641-0332",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 2 3 22 BARRIO BELALCAZAR, YUMBO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.5891213,
+    "lng": -76.4915176,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Cultura de Yumbo",
+    "telefono": "+57-60-2-669-1529",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 5 6 34 BARRIO BELALCAZAR, YUMBO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.3509573,
+    "lng": -76.517456,
+    "categoria": "Sector público",
+    "nombre": "Instituto Colombiano de Ballet Clasico",
+    "telefono": "+57-60-2-555-1080",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "KM 4 VIA JAMUNDI CALLEJON PIO XII, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.5831215,
+    "lng": -76.4914774,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Educacion Para El Trabajo y Desarrollo Humano",
+    "telefono": "+57-60-2-657-4579",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 4 9 84, YUMBO, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.461797,
+    "lng": -76.5292042,
+    "categoria": "Sector público",
+    "nombre": "Fondo Especial de Vivienda de Santiago de Cali",
+    "telefono": "+57-60-2-668-2755, +57-60-2-668-2747, +57-60-2-668-2765",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "AVENIDA 5A NORTE 20 N 08, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.449368,
+    "lng": -76.53488899999999,
+    "categoria": "Sector público",
+    "nombre": "Fondo Mixto Para La Promocion de la Cultura y Las Artes del Valle del Cauca",
+    "telefono": "+57-60-2-881-2868",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 8 5 70, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.434689,
+    "lng": -76.544303,
+    "categoria": "Sector público",
+    "nombre": "Instituto Popular de Cultura",
+    "telefono": "+57-60-2-514-7773",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 4 27 160, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.2552293,
+    "lng": -76.5405021,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal del Deporte y La Recreacion - Jamundi",
+    "telefono": "+57-60-2-519-0969",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "K 2 VIA CHIPAYA, JAMUNDI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 3.4484194,
+    "lng": -76.5339527,
+    "categoria": "Sector público",
+    "nombre": "Corporacion Vallecaucana de las Cuencas Hidrograficas y El Medio Ambiente",
+    "telefono": "+57-60-2-889-9407",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 8 8 60 EDIFICIO SAN LUIS, CALI, VALLE DEL CAUCA, COLOMBIA"
+  },
+  {
+    "lat": 10.981706,
+    "lng": -74.778313,
+    "categoria": "Sector público",
+    "nombre": "Alcaldia de Barranquilla, Distrito Especial, Industrial y Portuario",
+    "telefono": "+57-60-5-339-9107",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 34 43 31, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.9649561,
+    "lng": -74.7887767,
+    "categoria": "Sector público",
+    "nombre": "Departamento del Atlantico",
+    "telefono": "+57-60-5-330-7000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 40 CARRERA 45 Y 46, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.981706,
+    "lng": -74.778313,
+    "categoria": "Sector público",
+    "nombre": "Agencia Distrital de Infraestructura del Distrito de Barranquilla",
+    "telefono": "+57-60-5-339-9730",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 34 43 31, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.985246,
+    "lng": -74.7812447,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Transito del Atlantico",
+    "telefono": "+57-60-5-371-3000",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 40 CARRERA 45 ESQUINA, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 11.002475,
+    "lng": -74.79700179999999,
+    "categoria": "Sector público",
+    "nombre": "Establecimiento Publico Ambiental Barranquilla Verde",
+    "telefono": "+57-60-5-311-2470",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 60 72 07, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 11.0121964,
+    "lng": -74.80720629999999,
+    "categoria": "Sector público",
+    "nombre": "Asociacion Regional de Municipios del Caribe - AREMCA",
+    "telefono": "+57-60-5-385-4831",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 65 80 84, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 11.0042783,
+    "lng": -74.8132249,
+    "categoria": "Sector público",
+    "nombre": "Area Metropolitana de Barranquilla",
+    "telefono": "+57-60-5-367-1400",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 51B 80 58, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 11.0170531,
+    "lng": -74.7961166,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental de Recreacion y Deportes del Atlantico",
+    "telefono": "+57-60-5-331-9013",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "VIA 40 69 111 OFIC 304, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.9032539,
+    "lng": -74.8001386,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Transito y Transporte de Soledad",
+    "telefono": "+57-60-5-393-1108",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 63 13 71, SOLEDAD, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.9972827,
+    "lng": -74.8042049,
+    "categoria": "Sector público",
+    "nombre": "Asociacion de Municipios de la Region Caribe",
+    "telefono": "+57-60-5-368-6500",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 48 72 25, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.8582184,
+    "lng": -74.77584089999999,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Cultura de Malambo",
+    "telefono": "+57-60-5-376-3425",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 8 10B 131, MALAMBO, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.8686174,
+    "lng": -74.7771552,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Deportes de Malambo",
+    "telefono": "+57-60-5-376-3568",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 23B 13 24, MALAMBO, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 10.9706392,
+    "lng": -74.8006789,
+    "categoria": "Sector público",
+    "nombre": "Tribunal de Etica Medica del Atlantico",
+    "telefono": "+57-60-5-372-1860, +57-60-5-346-8829",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 57 23 100, BARRANQUILLA, ATLANTICO, COLOMBIA"
+  },
+  {
+    "lat": 7.116184499999999,
+    "lng": -73.129682,
+    "categoria": "Sector público",
+    "nombre": "Departamento de Santander",
+    "telefono": "+57-60-7-630-5324",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 37 10 30, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.1324662,
+    "lng": -73.1541962,
+    "categoria": "Sector público",
+    "nombre": "Direccion de Transito de Bucaramanga",
+    "telefono": "+57-60-7-680-9966",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "KM 4 VIA GIRON, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.1080179,
+    "lng": -73.1299477,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Salud de Bucaramanga",
+    "telefono": "+57-60-7-697-3009",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 9 CALLE 12 NORTE, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.1264796,
+    "lng": -73.1196235,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Cultura y Turismo de Bucaramanga",
+    "telefono": "+57-60-7-605-9460",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 30 26 117 PARQUE DE LOS NINOS, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.089716999999999,
+    "lng": -73.107131,
+    "categoria": "Sector público",
+    "nombre": "Banco Inmobiliario de Floridablanca",
+    "telefono": "+57-60-7-649-7285",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "TRANSVERSAL 29 5 33, FLORIDABLANCA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.113462299999999,
+    "lng": -73.1289329,
+    "categoria": "Sector público",
+    "nombre": "Bomberos de Bucaramanga",
+    "telefono": "+57-60-7-652-0389, +57-60-7-652-6666",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 44 10 13, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.1368478,
+    "lng": -73.1153909,
+    "categoria": "Sector público",
+    "nombre": "Instituto de la Juventud, El Deporte y La Recreacion de Bucaramanga",
+    "telefono": "+57-60-7-632-3644",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 30 7 100 UNIDAD DEPORTIVA ALFONSO LOPEZ COLISEO BICENTENARIO, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.1338611,
+    "lng": -73.11793100000001,
+    "categoria": "Sector público",
+    "nombre": "Instituto Departamental de Recreacion y Deportes",
+    "telefono": "+57-60-7-635-2772",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 30 CALLE 14, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.0896513,
+    "lng": -73.1100987,
+    "categoria": "Sector público",
+    "nombre": "Area Metropolitana de Bucaramanga",
+    "telefono": "+57-60-7-644-4831",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 89 TRANSVERSAL ORIENTAL METROP 69, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.1177264,
+    "lng": -73.12597079999999,
+    "categoria": "Sector público",
+    "nombre": "Instituto de Vivienda Municipal de Bucaramanga",
+    "telefono": "+57-60-7-670-0505",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 36 15 32 PISOS 3 Y 4, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.0709092,
+    "lng": -73.0806272,
+    "categoria": "Sector público",
+    "nombre": "Direccion de Transito y Transporte - Floridablanca",
+    "telefono": "+57-60-7-649-7870, +57-60-7-648-8598",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 9 8 14, FLORIDABLANCA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.125208,
+    "lng": -73.119968,
+    "categoria": "Sector público",
+    "nombre": "Instituto Municipal de Empleo y Fomento Empresarial Bucaramanga",
+    "telefono": "+57-60-7-670-6464",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CARRERA 26 30 78, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.0661467,
+    "lng": -73.08953819999999,
+    "categoria": "Sector público",
+    "nombre": "Casa de la Cultura Piedra del Sol - Floridablanca",
+    "telefono": "+57-60-7-619-8181",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CASA PARAGUITAS, FLORIDABLANCA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.0520337,
+    "lng": -73.0809206,
+    "categoria": "Sector público",
+    "nombre": "Instituto Para La Recreacion y El Deporte de Floridablanca",
+    "telefono": "+57-60-7-618-7955",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "KM 1 VIA PIEDECUESTA FLORIDABLANCA ESTADIO ALVARO GOMEZ HURTADO, FLORIDABLANCA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.119349,
+    "lng": -73.1227416,
+    "categoria": "Sector público",
+    "nombre": "Caja de Prevision Social Municipal de Bucaramanga",
+    "telefono": "+57-321-217-3937",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "ENTRADA 8, BUCARAMANGA, SANTANDER, COLOMBIA"
+  },
+  {
+    "lat": 7.112485100000001,
+    "lng": -73.1279186,
+    "categoria": "Sector público",
+    "nombre": "Tribunal de Etica Medica de Santander",
+    "telefono": "+57-60-7-633-6229, +57-60-7-633-6233",
+    "tipo": "ENTIDAD PÚBLICA",
+    "direccion": "CALLE 45 11 52, BUCARAMANGA, SANTANDER, COLOMBIA"
+  }
+]
